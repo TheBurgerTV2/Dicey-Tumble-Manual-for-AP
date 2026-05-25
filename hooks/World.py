@@ -63,27 +63,8 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
 
-    {"Essence Fragment": {ItemClassification.progression_deprioritized: 75}}
-    {"Extra Essence Fragment for fun": {ItemClassification.progression_deprioritized: 25}}
-
-    if not world.options.enable_rick_hentai.value:
-        item_config["Rick Hentai"] = 0
-        item_config["Rick Astley"] = 0
-        item_config["80s New Wave"] = 0
-        item_config["S3RL"] = 0
-        item_config["Happy Hardcore"] = 0
-        item_config["Otaku Culture"] = 0
-        item_config["Sexual Themes"] = 0
-        item_config["Pre-2012 Internet Culture"] = 0
-        item_config["Bait-And-Switch"] = 0
-
-    if not world.options.enable_lil_darkie.value:
-        item_config["Lil Darkie"] = 0
-        item_config["Spider Gang/Producers/Collaborators"] = 0
-        item_config["Hardstyle"] = 0
-        item_config["Trap Metal"] = 0
-        item_config["Cowboys/Deserts/Wild West"] = 0
-        item_config["Murder/Killing"] = 0
+    {"Dice Fragment": {ItemClassification.progression_deprioritized: 75}}
+    {"Extra Dice Fragment for fun": {ItemClassification.progression_deprioritized: 25}}
 
     return item_config
 
@@ -104,31 +85,15 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
 
     # Add source items to starting inventory
-    sourcesanity = world.options.Sourcesanity.value
-    if sourcesanity:
-        for char in starting_characters:
-            character_source_item_names = [name for name, i in world.item_name_to_item.items() if f"{char.name} Source" in i.get("category", [])]
-            character_source_items = [i for i in item_pool if i.name in character_source_item_names and i.player == player]
-            for item in character_source_items:
-                multiworld.push_precollected(item)
-                item_pool.remove(item)
+    # sourcesanity = world.options.Sourcesanity.value
+    # if sourcesanity:
+        # for char in starting_characters:
+            # character_source_item_names = [name for name, i in world.item_name_to_item.items() if f"{char.name} Source" in i.get("category", [])]
+            # character_source_items = [i for i in item_pool if i.name in character_source_item_names and i.player == player]
+            # for item in character_source_items:
+                # multiworld.push_precollected(item)
+                # item_pool.remove(item)
 
-
-
-    # Add Filler
-    fillers = [name for name, i in world.item_name_to_item.items() if "Filler" in i.get("category", [])]
-    total_filler = len(world.get_locations()) - len(item_pool)
-
-    for n in range(1, total_filler+1):
-
-        item_to_place = world.create_item(world.random.choice(fillers))
-
-        if n / total_filler <= world.options.local_fill.value:
-            #location = next(l for l in multiworld.get_unfilled_locations(player=player))
-            location = world.random.choice(multiworld.get_unfilled_locations(player=player))
-            location.place_locked_item(item_to_place)
-        else:
-            item_pool.append(item_to_place)
 
     return item_pool
 
@@ -149,9 +114,9 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
 
     for i in item_pool:
-            if i.name == "Essence Fragment":
+            if i.name == "Dice Fragment":
                 i.classification = ItemClassification.progression_deprioritized
-            if i.name == "Extra Essence Fragment for fun":
+            if i.name == "Extra Dice Fragment for fun":
                 i.classification = ItemClassification.progression_deprioritized
 
     return item_pool

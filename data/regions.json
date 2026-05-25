@@ -1,26 +1,30 @@
 {
-  "Pre-Bracket": {
+  "Dice 1": {
     "connects_to": [],
-    "requires": "|Pre-Bracket|"
+    "requires": "|Dice 1|"
   },
-  "Round 1": {
+  "Dice 2": {
     "connects_to": [],
-    "requires": "|Round 1|"
+    "requires": "|Dice 2|"
   },
-  "Losers Round 1": {
+  "Dice 3": {
     "connects_to": [],
-    "requires": "|Losers Round 1|"
+    "requires": "|Dice 3|"
   },
-  "Remix Week": {
+  "Dice 4": {
     "connects_to": [],
-    "requires": "|Remix Week|"
+    "requires": "|Dice 4|"
   },
-  "Winners Round 2": {
+  "Dice 5": {
     "connects_to": [],
-    "requires": "|Winners Round 2|"
+    "requires": "|Dice 5|"
   },
-  "Losers Round 2": {
+  "Dice 6": {
     "connects_to": [],
-    "requires": "|Losers Round 2|"
+    "requires": "|Dice 6|"
+  },
+  "Dice 0": {
+    "connects_to": [],
+    "requires": "|Dice 0|"
   }
 }

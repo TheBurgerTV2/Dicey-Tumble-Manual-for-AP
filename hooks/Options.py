@@ -25,52 +25,52 @@ from typing import Type, Any
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class Starting_Characters(Range):
-    """Number of characters to randomly add to the starting inventory.
-    Note that these also contribute to the goal character count."""
-    range_start = 1
-    range_end = 6
-    default = 3
+# class Starting_Characters(Range):
+    # """Number of characters to randomly add to the starting inventory.
+    # Note that these also contribute to the goal character count."""
+    # range_start = 1
+    # range_end = 6
+    # default = 3
 
-class Goal_Characters(Range):
-    """Number of characters required to goal.
-    You will still need 75 of the 100 goal macguffins"""
-    range_start = 0
-    range_end = 30
-    default = 24
+# class Goal_Characters(Range):
+    # """Number of characters required to goal.
+    # You will still need 75 of the 100 goal macguffins"""
+    # range_start = 0
+    # range_end = 30
+    # default = 24
 
-class EnableRickHentai(Toggle):
-    """Enables the sex guy, Rick Hentai.
-    Disable if your group has issues with sexual themes."""
-    default = False
+# class EnableRickHentai(Toggle):
+    # """Enables the sex guy, Rick Hentai.
+    # Disable if your group has issues with sexual themes."""
+    # default = False
 
-class EnableLilDarkie(Toggle):
-    """Enables the cowboy, Lil' Darkie.
-    Disable if your group has issues with slurs."""
-    default = False
+# class EnableLilDarkie(Toggle):
+    # """Enables the cowboy, Lil' Darkie.
+    # Disable if your group has issues with slurs."""
+    # default = False
 
-class LocalFill(Range):
-    """Sets an amount of filler to be local.
-    Use if your friends hate sending loads of especially useless filler.
-    Approximately 69 filler items are exempt from this setting."""
-    range_start = 0
-    range_end = 100
-    default = 25
+# class LocalFill(Range):
+    # """Sets an amount of filler to be local.
+    # Use if your friends hate sending loads of especially useless filler.
+    # Approximately 69 filler items are exempt from this setting."""
+    # range_start = 0
+    # range_end = 100
+    # default = 25
 
-class Sourcesanity(Toggle):
-    """Adds characters sources into the pool, adding 183 progression items into the pool.
-    do note that this can result in very restrictive seeds. This option probably sucks ass."""
-    default = False
+# class Sourcesanity(Toggle):
+    # """Adds characters sources into the pool, adding 183 progression items into the pool.
+    # do note that this can result in very restrictive seeds. This option probably sucks ass."""
+    # default = False
 
-# This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
-def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
-    options["starting_characters"] = Starting_Characters
-    options["goal_characters"] = Goal_Characters
-    options["enable_rick_hentai"] = EnableRickHentai
-    options["enable_lil_darkie"] = EnableLilDarkie
-    options["local_fill"] = LocalFill
-    options["Sourcesanity"] = Sourcesanity
-    return options
+This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
+# def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    # options["starting_characters"] = Starting_Characters
+    # options["goal_characters"] = Goal_Characters
+    # options["enable_rick_hentai"] = EnableRickHentai
+    # options["enable_lil_darkie"] = EnableLilDarkie
+    # options["local_fill"] = LocalFill
+    # options["Sourcesanity"] = Sourcesanity
+    # return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: Type[PerGameCommonOptions]):
