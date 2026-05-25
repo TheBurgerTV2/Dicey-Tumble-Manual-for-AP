@@ -1,0 +1,349 @@
+[
+  {
+    "count": "75",
+    "name": "Dice Fragment",
+    "category": [
+      "Goal MacGuffin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "25",
+    "name": "Extra Dice Fragment for fun",
+    "category": [
+      "Goal MacGuffin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "DJ Sray",
+    "category": [
+      "Character"
+      "Dice 1 Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jigglypuff",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coldsteel The Hedgeheg",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Three Peters",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tim Maia &「O DESCOBRIDOR DOS SETE MARES」",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Boss",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Carl Weezer ft. Phinnie Joe Armstrong",
+    "category": [
+      "Character"
+      "Dice 2 Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lain Iwakura",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elma",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chester Chomper",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Backside Rider",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bubsy The Bobcat",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Po",
+    "category": [
+      "Character"
+      "Dice 3 Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "VineSpoops",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mother 3",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Barbie",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heartsick Blades",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Robot Rock-U",
+    "category": [
+      "Character"
+      "Dice 4 Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "... in my katamari",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wiz & Boomstick",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blood Sugar",
+    "category": [
+      "Character"
+      "Dice 5 Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Loon",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moxie",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yerrr",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Big Bad Wolf",
+    "category": [
+      "Character"
+      "Dice 6 Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Joy",
+    "category": [
+      "Bonus Character"
+      "Dice 0 Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "RNGesus",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Man",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pac-Man",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Medic",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Morbel VS Capclown",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dice 1",
+    "category": [
+      "Dice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dice 2",
+    "category": [
+      "Dice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dice 3",
+    "category": [
+      "Dice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dice 4",
+    "category": [
+      "Dice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dice 5",
+    "category": [
+      "Dice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dice 6",
+    "category": [
+      "Dice"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dice 0",
+    "category": [
+      "Bonus Dice"
+    ],
+    "progression": true
+  },
+  {
+    "count": "50",
+    "name": "Song Skip",
+    "category": [
+      "Song Skips"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Filler",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": "13",
+    "name": "Funny Filler",
+    "category": ["Funny Filler"],
+    "Filler": true
+  }
+]
