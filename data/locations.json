@@ -5,7 +5,7 @@
     "category": [
       "Goal"
     ],
-    "requires": "{victory_rule()} AND |@Goal MacGuffin:75|"
+    "requires": "{victory_rule()}"
   },
   {
     "name": "UPLEFTDOWNDOWNUPRIGHTDOWNDOWNDOWN",
@@ -176,1038 +176,872 @@
     "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
-    "name": "We'll Do It All Again",
-    "region": "Remix Week",
+    "name": "Victory! Jigglypuff",
     "category": [
-      "Neil Cipher",
-      "Bad Girlz"
+      "Jigglypuff"
     ],
-    "requires": "|Neil Cipher| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Ke$ha/Collaborators| AND |2010/2019 Top 100 Billboards| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
+    "requires": "|Jigglypuff| AND |Dice 1|"
   },
   {
-    "name": "Aaron Emotions (You Have It)",
-    "region": "Remix Week",
+    "name": "Peach-coloured Singer",
     "category": [
-      "Neil Cipher"
+      "Jigglypuff"
     ],
-    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD|))"
+    "requires": "|Jigglypuff| AND |Dice 1|"
   },
   {
-    "name": "Phil Collins Is Back! (After Last Tournament)",
-    "region": "Remix Week",
+    "name": "Go Catch Your Man!",
     "category": [
-      "Neil Cipher",
-      "Hot Ones"
+      "Jigglypuff",
+      "Pac-Man"
     ],
-    "requires": "|Neil Cipher| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |88Rising/Collaborators| AND |R&B|))"
+    "requires": "|Jigglypuff| AND |Pac-Man| AND (|Dice 1| OR |Dice 0|)"
   },
   {
-    "name": "Can You Pls Put The Bin Out? Thx",
-    "region": "Winners Round 2",
+    "name": "Beats and Breaks from the Jiggly Zone",
     "category": [
-      "Neil Cipher",
-      "Susie Haltmann"
+      "Jigglypuff",
+      "Loon"
     ],
-    "requires": "|Neil Cipher| AND |Susie Haltmann| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Kirby| AND |HAL Laboratories| AND |2nd-Party Nintendo Games| AND |General Working/Corporations/Factories|))"
+    "requires": "|Jigglypuff| AND |Loon| AND (|Dice 1| OR |Dice 5|)"
   },
   {
-    "name": "Stuck Inside a Loop",
-    "region": "Winners Round 2",
+    "name": "kisses distorted",
     "category": [
-      "Neil Cipher"
+      "Jigglypuff",
+      "Mother 3"
     ],
-    "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega|))"
+    "requires": "|Jigglypuff| AND |Mother 3| AND (|Dice 1| OR |Dice 3|)"
   },
   {
-    "name": "Who Are You?",
-    "region": "Pre-Bracket",
+    "name": "WE CAN SING A SONG, JUST YOU AND ME!",
     "category": [
-      "Tyler & The Grinch"
+      "Jigglypuff",
+      "... in my katamari"
     ],
-    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice|))"
+    "requires": "|Jigglypuff| AND |... in my katamari| AND (|Dice 1| OR |Dice 4|)"
   },
   {
-    "name": "Freek'n Earfquake (Redux)",
-    "region": "Pre-Bracket",
+    "name": "Misery Is A Butterfree",
     "category": [
-      "Tyler & The Grinch",
-      "Heaven Ascension DIO"
+      "Jigglypuff",
+      "Robot Rock-U"
     ],
-    "requires": "|Tyler & The Grinch| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Shonen Jump|))"
+    "requires": "|Jigglypuff| AND |Robot Rock-U| AND (|Dice 1| OR |Dice 4|)"
   },
   {
-    "name": "No Time To Hold Back",
-    "region": "Pre-Bracket",
+    "name": "i'll keep those times in my heart",
     "category": [
       "Tyler & The Grinch"
     ],
-  "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Illumination|))"
+  "requires": "|Jigglypuff| AND |Dice 1|"
   },
   {
-    "name": "THE STORY OF DARKEESE LATIFAH & SAINT SCROOGE: A CHRISTMAS SPECIAL PART J1-29",
-    "region": "Pre-Bracket",
+    "name": "OW THE EDGE",
     "category": [
-      "Tyler & The Grinch",
-      "Forum Freakshow"
+      "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Tyler & The Grinch| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Christmas/Winter/Snow/Ice| OR |Ray William Johnson|)))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
-    "name": "How the Grinch Stole Madden 08!",
-    "region": "Pre-Bracket",
+    "name": "Chronological Order ~ From Start To DEATH.",
     "category": [
-      "Tyler & The Grinch",
-      "Scott the Woz"
+      "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Tyler & The Grinch| AND |Scott the Woz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Scott the Woz/Collaborators| AND |Super Smash Bros Originals| AND (|Christmas/Winter/Snow/Ice| OR |Dr. Seuss|)))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
-    "name": "Dirt Colored Eyes",
-    "region": "Pre-Bracket",
+    "name": "METAL CHAINS IN HAND",
     "category": [
-      "Tyler & The Grinch",
-      "Bad Girlz"
+      "Coldsteel The Hedgeheg",
+      "Joy"
     ],
-    "requires": "|Tyler & The Grinch| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Billie Eilish/Collaborators| AND |Ke$ha/Collaborators| AND |2010/2019 Top 100 Billboards| AND |Money| AND |Female Interscope Records Artists|))"
+    "requires": "|Tyler & The Grinch| AND |Bad Girlz| AND (|Dice 1| OR |Dice 0|)"
   },
   {
-    "name": "Golf Halation",
-    "region": "Round 1",
+    "name": "I AM... MACH INFINITY",
     "category": [
-      "Tyler & The Grinch"
+      "Coldsteel The Hedgeheg",
+      "Joy"
     ],
-    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice|))"
+    "requires": "|Tyler & The Grinch| AND |Bad Girlz| AND (|Dice 1| OR |Dice 0|)"
   },
   {
-    "name": "Bad Taste N Side My Mouth",
-    "region": "Round 1",
+    "name": "Victory! Coldsteel",
     "category": [
-      "Tyler & The Grinch",
-      "Black Mamba Farquaad"
+      "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Smash Mouth/Shrek Artists|))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
-    "name": "Music Inspired by Dreamworks & ABC's 'Shrek The Halls'",
-    "region": "Round 1",
+    "name": "Stupid Loser Hedgehog I am much bettre thn him",
     "category": [
-      "Tyler & The Grinch",
-      "Black Mamba Farquaad"
+      "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Smash Mouth/Shrek Artists| AND |Dreamworks| AND |Water/Aquatic Life|))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
-    "name": "Never Feel Happy",
-    "region": "Round 1",
+    "name": "TITANCHAD",
     "category": [
-      "Tyler & The Grinch",
-      "Club Bangers"
+      "Coldsteel The Hedgeheg",
+      "Elma"
     ],
-    "requires": "|Tyler & The Grinch| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Turntablism| AND |Tyler, the Creator/Collaborators|))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Elma| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "name": "BITCH GONE",
-    "region": "Round 1",
+    "name": "Breakup Speedrun",
     "category": [
-      "Tyler & The Grinch",
-      "Lil Darkie"
+      "Coldsteel The Hedgeheg",
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap-Metal| OR |Murder/Killing|)))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Bubsy The Bobcat| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "name": "IGOR'S ULTIMATUM",
-    "region": "Losers Round 1",
+    "name": "Gefährliche Welt",
     "category": [
-      "Tyler & The Grinch"
+      "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Christmas/Winter/Snow/Ice| OR |Dr. Seuss|)))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
-    "name": "MY SWEET BAUDELAIRE",
-    "region": "Losers Round 1",
+    "name": "psh... LORD C in teh house...",
     "category": [
-      "Tyler & The Grinch",
-      "Lofi Girl"
+      "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Illumination| AND |Dr. Seuss| AND |Bedroom Pop| AND |Studio Ghibli| AND |School/Education|))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
-    "name": "dance in the winter",
-    "region": "Losers Round 1",
+    "name": "im goign to kill those litle pigs with my good frend, coldsteel hedgeheg",
     "category": [
-      "Tyler & The Grinch",
-      "Lofi Girl"
+      "Coldsteel The Hedgeheg",
+      "The Big Bad Wolf"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Dr. Seuss| AND |Bedroom Pop| AND |School/Education| AND |Shiloh Dynasty| AND |Lofi Hip-Hop|))"
+    "requires": "|Coldsteel The Hedgeheg| AND |The Big Bad Wolf| AND (|Dice 1| OR |Dice 6|)"
   },
   {
-    "name": "Winter Break",
-    "region": "Losers Round 1",
+    "name": "All That Emptiness Frozen Deep Inside Me",
     "category": [
-      "Tyler & The Grinch",
-      "Lofi Girl"
+      "Coldsteel The Hedgeheg",
+      "Moxie"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Lofi Hip-Hop|))"
+    "requires": "|Coldsteel The Hedgeheg| AND |Moxie| AND (|Dice 1| OR |Dice 5|)"
   },
   {
-    "name": "Close To Your Wet Hands",
-    "region": "Losers Round 1",
+    "name": "Random Emotion Overflow",
     "category": [
-      "Tyler & The Grinch",
-      "Netherrack Nightmares"
+      "The Three (Four) Peters"
     ],
-    "requires": "|Tyler & The Grinch| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Minecraft|))"
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
   },
   {
-    "name": "BITCH GONE (CactusTeam Remix)",
-    "region": "Losers Round 1",
+    "name": "peaceful peter",
     "category": [
-      "Tyler & The Grinch",
-      "Lil Darkie"
+      "The Three (Four) Peters"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND (|Hardstyle| OR |Trap-Metal| OR |Murder/Killing|)))"
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
   },
   {
-    "name": "IGOR'S ULTIMATUM (Truly A Monster Mix)",
-    "region": "Remix Week",
+    "name": "Celebrate Good Times, Play Your Serenade.",
     "category": [
-      "Tyler & The Grinch"
+      "The Three (Four) Peters",
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
     ],
-    "requires": "|Tyler & The Grinch| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice|))"
+    "requires": "|The Three (Four) Peters| AND |Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
   },
   {
-    "name": "snofall megamix",
-    "region": "Remix Week",
+    "name": "Rainbow + Random = RAINDOM! Eh? Ehhhhh?",
     "category": [
-      "Tyler & The Grinch",
-      "Lofi Girl"
+      "The Three (Four) Peters"
     ],
-    "requires": "|Tyler & The Grinch| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Dr. Seuss| AND |Bedroom Pop| AND |Studio Ghibli| AND |School/Education| AND |Lofi Hip-Hop|))"
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
   },
   {
-    "name": "Scootin' Through Life",
-    "region": "Winners Round 2",
+    "name": "Woah, Ass Ahoy!",
     "category": [
-      "Tyler & The Grinch",
-      "Detective Hat Kid",
-      "River City Girls"
+      "The Three (Four) Peters",
+      "The Backside Rider"
     ],
-    "requires": "|Tyler & The Grinch| AND |Detective Hat Kid| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Wayforward| AND |Synthpop| AND |Synthwave|))"
+    "requires": "|The Three (Four) Peters| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "region": "Winners Round 2",
-    "name": "Termites In Your Smile",
+    "name": "big homer",
     "category": [
-      "Tyler & The Grinch",
-      "Ace D. Copular"
+      "The Three (Four) Peters"
     ],
-    "requires": "|Tyler & The Grinch| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Alternative Rock| AND (|Tyler, the Creator/Collaborators| OR |Christmas/Winter/Snow/Ice| OR |Illumination| OR |Dr. Seuss|)))"
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
   },
   {
-    "name": "COBRA FOR YA MIND",
-    "region": "Pre-Bracket",
+    "name": "here's to the ones that DIED.",
     "category": [
-      "Kid Cobra"
+      "The Three (Four) Peters"
     ],
-    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles|))"
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
   },
   {
-    "name": "Turn Down For Wubadubadub",
-    "region": "Pre-Bracket",
+    "name": "credits song for my marriage",
     "category": [
-      "Cadence",
-      "Kid Cobra"
+      "The Three (Four) Peters"
     ],
-    "requires": "|Cadence| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Serpents/Reptiles| AND |Rhythm Games|))"
+    "requires": "|The Three (Four) Peters| AND |Dice 1|"
   },
   {
-    "name": "Ameri-Kid Cobra",
-    "region": "Pre-Bracket",
+    "name": "CRAZY FUNKY BIZARRE SHIP",
     "category": [
-      "Kid Cobra"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
     ],
-    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Serpents/Reptiles|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
   },
   {
-    "region": "Pre-Bracket",
-    "name": "[REDACTED] MYSELF WITH A COILED SPRING",
+    "name": "Whoa Lady, All I Need Is You.",
     "category": [
-      "Kid Cobra",
-      "Lil Darkie"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
     ],
-    "requires": "|Kid Cobra| AND |Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
   },
   {
-    "name": "Subway Surfer Havoc",
-    "region": "Pre-Bracket",
+    "name": "Is Your Heart Breaking To The Beat?",
     "category": [
-      "Detective Hat Kid",
-      "Kid Cobra"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Carl Weezer ft. Phinnie Joe Armstrong"
     ],
-    "requires": "|Kid Cobra| AND |Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Serpents/Reptiles| AND |Mysteries/Detective Media|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Carl Weezer ft. Phinnie Joe Armstrong| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "name": "Rocking That Booyah Bassline",
-    "region": "Round 1",
+    "name": "Play Calm, Play Funky, Play Songs!",
     "category": [
-      "Kid Cobra"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
     ],
-    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Serpents/Reptiles|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
   },
   {
-    "region": "Round 1",
-    "name": "Hoopz (Hittin' It With A Natural)",
+    "name": "AWAKEN, HYPE MEN",
     "category": [
-      "Kid Cobra",
-      "Charles “All-Star” Barkley"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "The Backside Rider"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skate Punk| AND |Serpents/Reptiles| AND |Gnarls Barkley/Its Members| AND |Quad City DJs/Space Jam Artists|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "name": "Leavin' Shaq Speechless",
-    "region": "Round 1",
+    "name": "The Path To AVALON",
     "category": [
-      "Kid Cobra",
-      "Charles “All-Star” Barkley"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Elma"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Sports/Training Montages| AND |Quad City DJs/Space Jam Artists| AND |90s Hip-Hop/Rap| AND |Gnarls Barkley/Its Members|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Elma| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "region": "Losers Round 1",
-    "name": "The Edge of Gravity",
+    "name": "Médico Canta Pagode Russo Com João Joestrela",
     "category": [
-      "Kid Cobra"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Medic"
     ],
-    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Medic| AND (|Dice 1| OR |Dice 0|)"
   },
   {
-    "name": "Tekno Beatdown",
-    "region": "Losers Round 1",
+    "name": "Beauty & The Bass",
     "category": [
-      "Kid Cobra",
-      "River City Girls"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Barbie"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska| AND |Serpents/Reptiles| AND |Wayforward| AND |Synthwave|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Barbie| AND (|Dice 1| OR |Dice 3|)"
   },
   {
-    "name": "BE CALM ~ RIVER CITY RIPTIDE!!",
-    "region": "Losers Round 1",
+    "name": "Triunfo Racional",
     "category": [
-      "Kid Cobra",
-      "River City Girls"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "Yerrr"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Wayforward| AND |Beat-Em-Ups|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Yerrr| AND (|Dice 1| OR |Dice 5|)"
   },
   {
-    "name": "The Art of Turf War",
-    "region": "Losers Round 1",
+    "name": "Taking Me To Overdrive",
     "category": [
-      "Kid Cobra",
-      "River City Girls"
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
+      "The Backside Rider"
     ],
-    "requires": "|Kid Cobra| AND |River City Girls| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles| AND |Beat-Em-Ups| AND |Chipzel| AND |Arc System Works| AND |Synthwave|))"
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "name": "Loser's Lament: A 0-2 Medley",
-    "region": "Losers Round 1",
+    "name": ":no lies allowed:",
     "category": [
-      "Lofi Girl",
-      "Lil Darkie",
-      "Playing With Power!",
-      "MTT! Tour",
-      "Guzma",
-      "Forum Freakshow",
-      "Gustavo Rocque",
-      "Kid Cobra"
+      "The Boss"
     ],
-    "requires": "|Lofi Girl| AND |Lil Darkie| AND |Playing With Power!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Serpents/Reptiles| AND |SoundCloud Rappers| AND |Skeletons| AND |Spider Gang/Producers/Collaborators| AND |Gangs/Organized Crime| AND |UNDERTALE/DELTARUNE| AND |Birds| AND |NES/SNES| AND |Lofi Hip-Hop| AND |Glam Rock| AND |YTPs/YTPMVs| AND |Nickelodeon Records| AND |Halley Labs| AND |Ghosts| AND |School/Education| AND |Big Time Rush/Stephen Glickman| AND |Pokémon Media| AND |Bedroom Pop| AND |Ray William Johnson| AND |Cowboys/Deserts/Wild West| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Pokémon Media| AND |Canines| AND |Well Known/Credited Music Producers|))"
+    "requires": "|The Boss| AND |Dice 1|"
   },
   {
-    "name": "My Name Is Cobra",
-    "region": "Losers Round 1",
+    "name": "STEAL.",
     "category": [
-      "Kid Cobra"
+      "The Boss",
+      "Joy"
     ],
-    "requires": "|Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Ska| AND |Serpents/Reptiles|))"
+    "requires": "|The Boss| AND |Joy| AND (|Dice 1| OR |Dice 0|)"
   },
   {
-    "name": "CAN'T GET ENUF",
-    "region": "Losers Round 1",
+    "name": "Graceful Intermission",
     "category": [
-      "Kid Cobra",
-      "Gustavo Rocque"
+      "The Boss"
     ],
-    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Big Time Rush/Stephen Glickman|))"
+    "requires": "|The Boss| AND |Dice 1|"
   },
   {
-    "name": "Condensed Troubles",
-    "region": "Losers Round 1",
+    "name": "BASICS IN BETRAYAL",
     "category": [
-      "Kid Cobra",
-      "Gustavo Rocque"
+      "The Boss"
     ],
-    "requires": "|Gustavo Rocque| AND |Kid Cobra| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |Well Known/Credited Music Producers|))"
+    "requires": "|The Boss| AND |Dice 1|"
   },
   {
-    "name": "Paintin' Me Speechless",
-    "region": "Remix Week",
+    "name": "WAT.EXERS OF MEGALONLYFANS",
     "category": [
-      "Kid Cobra",
-      "Charles “All-Star” Barkley"
+      "The Boss",
+      "The Backside Rider"
     ],
-    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |Ska| AND |Serpents/Reptiles| AND |Sports/Training Montages| AND |90s Hip-Hop/Rap| AND |Quad City DJs/Space Jam Artists|))"
+    "requires": "|The Boss| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "name": "JACK DA FAITHFUL",
-    "region": "Winners Round 2",
+    "name": "AND ONLY ONE WILL SURVIVE (THE FIRE)",
     "category": [
-      "Kid Cobra",
-      "Club Bangers"
+      "The Boss",
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Kid Cobra| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Fatman Scoop| AND |Ed Banger Records| AND |Gigi D'Agostino| AND (|Skating/Boarding| OR |Turntablism|)))"
+    "requires": "|The Boss| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "name": "Edamame Jump Around",
-    "region": "Winners Round 2",
+    "name": "Hampster Party",
     "category": [
-      "Kid Cobra",
-      "Hot Ones"
+      "The Boss"
     ],
-    "requires": "|Kid Cobra| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Skating/Boarding| AND |88Rising/Collaborators|))"
+    "requires": "|The Boss| AND |Dice 1|"
   },
   {
-    "name": "All The [HATERS] Say I'm Pretty Swell!",
-    "region": "Winners Round 2",
+    "name": "guess we doin your wife now",
     "category": [
-      "Forum Freakshow",
-      "Kid Cobra",
-      "Reanimatedd"
+      "The Boss",
+      "VineSpoops"
     ],
-    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARMS/Nintendo Switch| AND |Skating/Boarding| AND |Skate Punk| AND |YTPs/YTPMVs| AND |SoundClowns| AND |Ray William Johnson| AND |Halley Labs| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND (|Animated Webseries/Indie Web Animation| OR |Flash Creators/Creations|)))"
+    "requires": "|The Boss| AND |VineSpoops| AND (|Dice 1| OR |Dice 3|)"
   },
   {
-    "name": "Murder On The Owl Express!",
-    "region": "Pre-Bracket",
+    "name": "Vanished Girl",
     "category": [
-      "Detective Hat Kid"
+      "The Boss",
+      "Barbie"
     ],
-    "requires": "|Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Electro Swing|))"
+    "requires": "|The Boss| AND |Barbie| AND (|Dice 1| OR |Dice 3|)"
   },
   {
-    "name": "Megamus",
-    "region": "Pre-Bracket",
+    "name": "VS. :the universe:",
     "category": [
-      "Snailiens",
-      "gSports",
-      "Lil Darkie",
-      "Reanimatedd",
-      "Detective Hat Kid"
+      "The Boss",
+      "Wiz & Boomstick"
     ],
-    "requires": "|Snailiens| AND |gSports| AND |Lil Darkie| AND |Reanimatedd| AND |Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Snail's House| AND |Kero Kero Bonito| AND |Space/Aliens| AND |Advertisements/GEICO Ads| AND |Twitch Games/eSports Games| AND |Zombies| AND |Eddsworld/Collaborators| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
+    "requires": "|The Boss| AND |Wiz & Boomstick| AND (|Dice 1| OR |Dice 4|)"
   },
   {
-    "name": "Clocktowers You Loved",
-    "region": "Pre-Bracket",
+    "name": "What We're Gonna Do Today",
     "category": [
-      "Detective Hat Kid",
-      "Bad Girlz"
+      "Carl Weezer ft. Phinnie Joe Armstrong"
     ],
-    "requires": "|Detective Hat Kid| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Billie Eilish/Collaborators| AND |2010/2019 Top 100 Billboards|))"
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Dice 2|"
   },
   {
-    "region": "Round 1",
-    "name": "TOPHAMHAT-KID",
+    "name": "Can't Control Me",
     "category": [
-      "Detective Hat Kid"
+      "Carl Weezer ft. Phinnie Joe Armstrong"
     ],
-    "requires": "|Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Electro Swing|))"
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Joy| AND (|Dice 2| OR |Dice 0|)"
   },
   {
-    "name": "Down With The Mafia!!",
-    "region": "Round 1",
+    "name": "Electric Pop Punk!",
     "category": [
-      "Detective Hat Kid",
-      "Guzma"
+      "Carl Weezer ft. Phinnie Joe Armstrong"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Electro Swing| AND |Pokémon Media| AND |Gangs/Organized Crime| AND (|Mysteries/Detective Media| OR |Skeletons|)))"
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Dice 2|"
   },
   {
-    "name": "Discussion -BATTLE-",
-    "region": "Round 1",
+    "name": "Bust Out Your Goodbyes",
     "category": [
-      "Detective Hat Kid",
-      "Guzma"
+      "Carl Weezer ft. Phinnie Joe Armstrong"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Electro Swing| AND |Pokémon Media| AND |Gangs/Organized Crime| AND |Insects| AND (|Collectathons| OR |Skeletons|)))"
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Dice 2|"
   },
   {
-    "name": "Your Turn to Fly",
-    "region": "Round 1",
+    "name": "No ONE in the world for me.",
     "category": [
-      "Detective Hat Kid",
-      "Guzma"
+      "Carl Weezer ft. Phinnie Joe Armstrong"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Mysteries/Detective Media| AND |Electro Swing| AND |Pokémon Media| AND |Insects| AND |Gangs/Organized Crime|))"
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Robot Rock-U| AND (|Dice 2| OR |Dice 4|)"
   },
   {
-    "name": "Meaning of LOVE",
-    "region": "Round 1",
+    "name": "Promised Love",
     "category": [
-      "Detective Hat Kid",
-      "MTT! Tour"
+      "Carl Weezer ft. Phinnie Joe Armstrong",
+      "Barbie"
     ],
-    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Electro Swing| AND |UNDERTALE/DELTARUNE| AND (|Mysteries/Detective Media| OR |Ghosts|)))"
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Barbie| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "name": "Hats Off To You, Zenigata!",
-    "region": "Round 1",
+    "name": "Chasing Supercelled Jellyfish",
     "category": [
-      "Detective Hat Kid",
-      "Scatman & Hatman"
+      "Carl Weezer ft. Phinnie Joe Armstrong",
+      "The Big Bad Wolf"
     ],
-    "requires": "|Detective Hat Kid| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing| AND |Collectathons| AND |90s Hits| AND |Scatman John| AND |Jazz| AND |One-Hit Wonders| AND |Lou Bega|))"
+    "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |The Big Bad Wolf| AND (|Dice 2| OR |Dice 6|)"
   },
   {
-    "name": "Talking In The Rain",
-    "region": "Losers Round 1",
+    "name": "Fleeting Cure",
     "category": [
-      "Detective Hat Kid",
-      "MAD/EON"
+      "Lain Iwakura"
     ],
-    "requires": "|Detective Hat Kid| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Madeon/Collaborators|))"
+    "requires": "|Lain Iwakura| AND |Dice 2|"
   },
   {
-    "name": "Something Ain't Right...",
-    "region": "Winners Round 2",
+    "name": "SAINT'S IN A PICKLE",
     "category": [
-      "Detective Hat Kid"
+      "Lain Iwakura",
+      "Joy"
     ],
-    "requires": "|Detective Hat Kid| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing|))"
+    "requires": "|Lain Iwakura| AND |Joy| AND (|Dice 2| OR |Dice 0|)"
   },
   {
-    "name": "Mad Vanessa's Mansion",
-    "region": "Winners Round 2",
+    "name": "you don't get me.",
     "category": [
-      "Detective Hat Kid",
-      "Reanimatedd"
+      "Lain Iwakura"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND |Animated Webseries/Indie Web Animation| AND |Flash Creators/Creations| AND |Webcomics| AND |Zombies|))"
+    "requires": "|Lain Iwakura| AND |Dice 2|"
   },
   {
-    "region": "Winners Round 2",
-    "name": "Flying Across the Skyline",
+    "name": "(Not To Sound Cliche But) THIS WORLD SUCKS!",
     "category": [
-      "Detective Hat Kid",
-      "Reanimatedd"
+      "Lain Iwakura",
+      "Elma"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Animated Webseries/Indie Web Animation|))"
+    "requires": "|Lain Iwakura| AND |Elma| AND |Dice 2|"
   },
   {
-    "region": "Winners Round 2",
-    "name": "The On Meat Bone",
+    "name": "SLAY THE FALSE PROPHET.",
     "category": [
-      "Detective Hat Kid",
-      "Reanimatedd"
+      "Lain Iwakura",
+      "Elma"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Puzzles| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Webcomics|))"
+    "requires": "|Lain Iwakura| AND |Elma| AND |Dice 2|"
   },
   {
-    "region": "Winners Round 2",
-    "name": "Afraid of Losing Myself",
+    "name": "Victory! Lain",
     "category": [
-      "Detective Hat Kid",
-      "Reanimatedd"
+      "Lain Iwakura"
     ],
-    "requires": "|Detective Hat Kid| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Electro Swing| AND |Eddsworld/Collaborators| AND |Newgrounds Creators/Creations| AND |Animated Webseries/Indie Web Animation| AND (|Puzzles| OR |Webcomics|)))"
+    "requires": "|Lain Iwakura| AND |Dice 2|"
   },
   {
-    "name": "Vapored Clocktowers You Still Love",
-    "region": "Remix Week",
+    "name": "“my mosquito pinkpantheress resonance dvi shashshashshash jane remover mashup”",
     "category": [
-      "Detective Hat Kid",
-      "Bad Girlz"
+      "Lain Iwakura"
     ],
-    "requires": "|Detective Hat Kid| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Puzzles| AND |Collectathons| AND |2010/2019 Top 100 Billboards| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
+    "requires": "|Lain Iwakura| AND |Dice 2|"
   },
   {
-    "name": "Pink Platforming (B-Side)",
-    "region": "Remix Week",
+    "name": "Million Dollar Lucky Number",
     "category": [
-      "Detective Hat Kid",
-      "Hot Ones"
+      "Lain Iwakura",
+      "Moxie"
     ],
-    "requires": "|Detective Hat Kid| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |88Rising/Collaborators|))"
+    "requires": "|Lain Iwakura| AND |Moxie| AND (|Dice 2| OR |Dice 5|)"
   },
   {
-    "name": "BLOODY BURNING TRAINWRECK:『にゃくざ潮流』",
-    "region": "Remix Week",
+    "name": "Present Year, Past Demons",
     "category": [
-      "Detective Hat Kid",
-      "Heaven Ascension DIO"
+      "Lain Iwakura"
     ],
-    "requires": "|Detective Hat Kid| AND |Heaven Ascension DIO| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Collectathons| AND |Shonen Jump| AND |JoJo's Bizarre Adventure Major Antagonists| AND (|Arena Fighters/3D Brawlers| OR |Vampires|)))"
+    "requires": "|Lain Iwakura| AND |Dice 2|"
   },
   {
-    "name": "Forum Rocker (Chapter 2)",
-    "region": "Remix Week",
+    "name": "waiting for someone?",
     "category": [
-      "Detective Hat Kid",
-      "MTT! Tour",
-      "Bad Girlz",
-      "Forum Freakshow"
+      "Lain Iwakura",
+      "Mother 3"
     ],
-    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |UNDERTALE/DELTARUNE| AND |Ray William Johnson| AND |Halley Labs| AND |Ke$ha/Collaborators|))"
+    "requires": "|Lain Iwakura| AND |Mother 3| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "name": "Your Turn To Cry",
-    "region": "Remix Week",
+    "name": "A New Reality",
     "category": [
-      "Detective Hat Kid",
-      "Guzma"
+      "Lain Iwakura"
     ],
-    "requires": "|Detective Hat Kid| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Mysteries/Detective Media| AND |Puzzles| AND |Pokémon Media| AND |Insects| AND |Gangs/Organized Crime| AND (|Gears for Breakfast/Indie Platformers| OR |Collectathons|)))"
+    "requires": "|Lain Iwakura| AND |Dice 2|"
   },
   {
-    "name": "skin like striped spirits",
-    "region": "Remix Week",
+    "name": "what can't be undone",
     "category": [
-      "Detective Hat Kid",
-      "Lofi Girl"
+      "Lain Iwakura",
+      "Heartsick Blades"
     ],
-    "requires": "|Detective Hat Kid| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |School/Education|))"
+    "requires": "|Lain Iwakura| AND |Heartsick Blades| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "name": "paint my world",
-    "region": "Winners Round 2",
+    "name": "FACE THE FIRE, THE FUTURE WAITS",
     "category": [
-      "Detective Hat Kid",
-      "Netherrack Nightmares",
-      "Lofi Girl"
+      "Lain Iwakura",
+      "Blood Sugar"
     ],
-    "requires": "|Detective Hat Kid| AND |Netherrack Nightmares| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Electro Swing| AND |Collectathons| AND |Minecraft| AND |Bedroom Pop| AND |Studio Ghibli|))"
+    "requires": "|Lain Iwakura| AND |Blood Sugar| AND (|Dice 2| OR |Dice 5|)"
   },
   {
-    "name": "SWAMP DRAINED",
-    "region": "Pre-Bracket",
+    "name": "Don't Lose The KEY.",
     "category": [
-      "Lil Darkie"
+      "Elma"
     ],
-    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West|))"
+    "requires": "|Elma| AND |Dice 2|"
   },
   {
-    "name": "Kaard’s Composition",
-    "region": "Pre-Bracket",
+    "name": "ENGAGE TILL YOU'VE HAD ENOUGH",
     "category": [
-      "Lil Darkie",
-      "MTT! Tour"
+      "Elma"
     ],
-    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
+    "requires": "|Elma| AND |Dice 2|"
   },
   {
-    "name": "DISINTEGRATING ROAD TO EL DORADO",
-    "region": "Pre-Bracket",
+    "name": "Victory! Elma",
     "category": [
-      "Lil Darkie",
-      "Reanimatedd"
+      "Elma"
     ],
-    "requires": "|Lil Darkie| AND |Reanimatedd| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Eddsworld/Collaborators| AND (|Murder/Killing| OR |Zombies|) AND |Newgrounds Creators/Creations|))"
+    "requires": "|Elma| AND |Dice 2|"
   },
   {
-    "name": "A BUNCH OF CHEAP WALK CYCLES!",
-    "region": "Pre-Bracket",
+    "name": "Long Is The Night",
     "category": [
-      "Lil Darkie",
-      "Gustavo Rocque"
+      "Elma"
     ],
-    "requires": "|Lil Darkie| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Nickelodeon Media| AND |Nickelodeon Records|))"
+    "requires": "|Elma| AND |Dice 2|"
   },
   {
-    "name": "REACH FXR THE SKY!",
-    "region": "Round 1",
+    "name": "Feel Good Manon",
     "category": [
-      "Lil Darkie"
+      "Elma",
+      "The Backside Rider"
     ],
-    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND  (|Spider Gang/Producers/Collaborators| OR |Trap-Metal| OR |Cowboys/Deserts/Wild West|) AND (|Spider Gang/Producers/Collaborators| OR |Trap-Metal|) AND |Hardstyle|))"
+    "requires": "|Elma| AND |The Backside Rider| AND |Dice 2|"
   },
   {
     "name": "THIS DESERT IS NOT FOR DREAMERS ANYMORE",
-    "region": "Round 1",
     "category": [
-      "Painful Dreamers",
-      "Lil Darkie"
+      "Elma",
+      "Robot Rock-U"
     ],
-    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Sleep/Dreams/Nightmares| AND |Drugs/Psychedelic Imagery| AND (|RPGMaker| OR |The Apocalypse| OR |Cowboys/Deserts/Wild West|) OR (|RPGMaker| OR |The Apocalypse|))"
+    "requires": "|Elma| AND |Robot Rock-U| AND (|Dice 2| AND |Dice 4|)"
   },
   {
-    "name": "we don't have to hold on…",
-    "region": "Round 1",
+    "name": "Lil' Enemies",
     "category": [
-      "Painful Dreamers",
-      "Lil Darkie"
+      "Elma",
+      "... in my katamari"
     ],
-    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sleep/Dreams/Nightmares| AND (|RPGMaker| OR |The Apocalypse|) AND |Spider Gang/Producers/Collaborators|))"
+    "requires": "|Elma| AND |... in my katamari| AND (|Dice 2| AND |Dice 4|)"
   },
   {
-    "name": "A CHRISTMAS MIRACLE",
-    "region": "Round 1",
+    "name": "elma more like elmo ohohohohohoho",
     "category": [
-      "Lil Darkie",
-      "Guzma"
+      "Elma",
+      "Mother 3"
     ],
-    "requires": "|Lil Darkie| AND |Guzma| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Gangs/Organized Crime| AND |Pokémon Media|))"
+    "requires": "|Elma| AND |Mother 3| AND (|Dice 2| AND |Dice 3|)"
   },
   {
-    "name": "Red and Pink",
-    "region": "Round 1",
+    "name": "Melancholy Hell",
     "category": [
-      "Head Chef Heavy",
-      "Reanimatedd",
-      "Lil Darkie"
+      "Elma",
+      "Heartsick Blades"
     ],
-    "requires": "|Lil Darkie| AND |Reanimatedd| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eddsworld/Collaborators| AND |Flash Creators/Creations| AND |Murder/Killing| AND |Food/Culinary Arts|))"
+    "requires": "|Elma| AND |Heartsick Blades| AND (|Dice 2| AND |Dice 3|)"
   },
   {
-    "name": "GLASS CRYPT - AR-16 (3-3 Cold)",
-    "region": "Round 1",
+    "name": "CHEEESY Firepower!",
     "category": [
-      "Lil Darkie",
-      "Cadence"
+      "Chester Chomper"
     ],
-    "requires": "|Lil Darkie| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Hardstyle| OR (|Trap-Metal| AND |Spider Gang/Producers/Collaborators|)) AND (|Danny Baranowsky| OR |Rhythm Games| OR |Roguelikes| OR |Dungeon Crawlers|))"
+    "requires": "|Chester Chomper| AND |Dice 2|"
   },
   {
-    "name": "GO SHOOT 'EM ALL!",
-    "region": "Losers Round 1",
+    "name": "FRITOS FORCE",
     "category": [
-      "Lil Darkie"
+      "Chester Chomper",
+      "Joy"
     ],
-    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND (|Spider Gang/Producers/Collaborators| OR |Trap-Metal|) AND |Hardstyle| AND |Cowboys/Deserts/Wild West|))"
+    "requires": "|Chester Chomper| AND |Joy| AND (|Dice 2| OR |Dice 0|)"
   },
   {
-    "name": "the high life",
-    "region": "Losers Round 1",
+    "name": "Flammable Intentions",
     "category": [
-      "Lil Darkie",
-      "MAD/EON"
+      "Chester Chomper"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|IDM| AND |Spider Gang/Producers/Collaborators| AND |Madeon/Collaborators|))"
+    "requires": "|Chester Chomper| AND |Dice 2|"
   },
   {
-    "name": "MADNESS!",
-    "region": "Losers Round 1",
+    "name": "Paw-don, But Is Your Order The Pizza & Purr-psi Combo?!",
     "category": [
-      "Lil Darkie",
-      "MAD/EON"
+      "Chester Chomper",
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Madeon/Collaborators|))"
+    "requires": "|Chester Chomper| AND |Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "DARKIE58",
-    "region": "Losers Round 1",
+    "name": "Peashooter's Dancetune",
     "category": [
-      "Lil Darkie",
-      "MAD/EON"
+      "Chester Chomper",
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARGs| AND |IDM| AND |Murder/Killing| AND |Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West| AND |Madeon/Collaborators|))"
+    "requires": "|Chester Chomper| AND |Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "TUMBLEWEEDS",
-    "region": "Losers Round 1",
+    "name": "Victory! Chester Chomper ",
     "category": [
-      "Lil Darkie"
+      "Chester Chomper"
     ],
-    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Cowboys/Deserts/Wild West|))"
+    "requires": "|Chester Chomper| AND |Dice 2|"
   },
   {
-    "name": "taken away from me",
-    "region": "Losers Round 1",
+    "name": "Only You, Sunflower.",
     "category": [
-      "Lil Darkie",
-      "Hot Ones"
+      "Chester Chomper"
     ],
-    "requires": "|Lil Darkie| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |88Rising/Collaborators|))"
+    "requires": "|Chester Chomper| AND |Dice 2|"
   },
   {
     "name": "deadbeat",
-    "region": "Losers Round 1",
     "category": [
-      "Lil Darkie",
-      "Bad Girlz"
+      "Chester Chomper",
+      "Blood Sugar"
     ],
-    "requires": "|Lil Darkie| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|) AND |Murder/Killing| AND (|Ke$ha/Collaborators| OR |2010/2019 Top 100 Billboards|)))"
+    "requires": "|Chester Chomper| AND |Blood Sugar| AND (|Dice 2| OR |Dice 5|)"
   },
   {
-    "name": "Composition's Kaard",
-    "region": "Remix Week",
+    "name": "Gently Sun-kissed",
     "category": [
-      "Lil Darkie",
-      "MTT! Tour"
+      "Chester Chomper"
     ],
-    "requires": "|Lil Darkie| AND |MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |Spider Gang/Producers/Collaborators|))"
+    "requires": "|Chester Chomper| AND |Dice 2|"
   },
   {
-    "region": "Remix Week",
-    "name": "THIS PLANET IS DYING!!!",
+    "name": "Strikin' At Your Back",
     "category": [
-      "Painful Dreamers",
-      "Lil Darkie"
+      "The Backside Rider"
     ],
-    "requires": "|Lil Darkie| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Sleep/Dreams/Nightmares| AND |Spider Gang/Producers/Collaborators|))"
+    "requires": "|The Backside Rider| AND |Dice 2|"
   },
   {
-    "name": "low life scum like you",
-    "region": "Remix Week",
+    "name": "Ride With Danger",
     "category": [
-      "Lil Darkie",
-      "MAD/EON"
+      "The Backside Rider"
     ],
-    "requires": "|Lil Darkie| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Cowboys/Deserts/Wild West| AND |IDM| AND |Madeon/Collaborators| AND |Spider Gang/Producers/Collaborators| AND |Murder/Killing|))"
+    "requires": "|The Backside Rider| AND |Dice 2|"
   },
   {
-    "name": "IRON CURTAIN",
-    "region": "Winners Round 2",
+    "name": "Round Zone 2",
     "category": [
-      "Head Chef Heavy",
-      "Lil Darkie"
+      "The Backside Rider"
     ],
-    "requires": "|Lil Darkie| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Fan-Content| AND |Spider Gang/Producers/Collaborators| AND |First Person Shooters/Class Based Shooters| AND (|Cowboys/Deserts/Wild West| OR |Guns|)))"
+    "requires": "|The Backside Rider| AND |Dice 2|"
   },
   {
-    "name": "Saturnz Slidez",
-    "region": "Winners Round 2",
+    "name": "Big Booty Baby",
     "category": [
-      "Lil Darkie",
-      "Ace D. Copular"
+      "The Backside Rider",
+      "The Big Bad Wolf"
     ],
-    "requires": "|Lil Darkie| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Damon Albarn| AND |Turner Broadcasting|))"
+    "requires": "|The Backside Rider| AND |The Big Bad Wolf| AND (|Dice 2| AND |Dice 6|)"
   },
   {
-    "name": "Lil Daisuke",
-    "region": "Winners Round 2",
+    "name": "MEOWning: PAWssibly HISSterical",
     "category": [
-      "Lil Darkie"
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Lil Darkie| AND ({YamlCompare(Sourcesanity == 0)} OR (|Spider Gang/Producers/Collaborators| AND |Murder/Killing| AND |Cowboys/Deserts/Wild West|))"
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "Rusty Raps",
-    "region": "Winners Round 2",
+    "name": "The Melancholy Of Waking Up",
     "category": [
-      "Lil Darkie",
-      "Guzma",
-      "Club Bangers",
-      "Ace D. Copular"
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Lil Darkie| AND |Guzma| AND |Club Bangers| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Murder/Killing| AND |Gangs/Organized Crime| AND |French Touch| AND |Damon Albarn| AND |Spider Gang/Producers/Collaborators| AND |Fatman Scoop|))"
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "Now Entering [A] : ...",
-    "region": "Pre-Bracket",
+    "name": "Victory! Bubsy",
     "category": [
-      "Playing With Power!"
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Canines|))"
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "rode here on the vines",
-    "region": "Pre-Bracket",
+    "name": "Good Night, Ristar!",
     "category": [
-      "Playing With Power!",
-      "Painful Dreamers"
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Playing With Power!| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Sleep/Dreams/Nightmares|))"
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "Let's Make a Chocolate Island !!",
-    "region": "Pre-Bracket",
+    "name": " 	That's Not A Painting, That's An Adult Thing!",
     "category": [
-      "Playing With Power!",
-      "Snailiens"
+      "Bubsy The Bobcat",
+      "Po"
     ],
-    "requires": "|Playing With Power!| AND |Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Snail's House| AND |Space/Aliens|))"
+    "requires": "|Bubsy The Bobcat| AND |Po| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "name": "Pharmacist Mario",
-    "region": "Pre-Bracket",
+    "name": "BOTH MY GIRLFRIENDS",
     "category": [
-      "Playing With Power!",
-      "Club Bangers"
+      "Bubsy The Bobcat",
+      "Moxie"
     ],
-    "requires": "|Playing With Power!| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Ed Banger Records| AND |French Touch|))"
+    "requires": "|Bubsy The Bobcat| AND |Moxie| AND (|Dice 2| OR |Dice 5|)"
   },
   {
-    "name": "Shake It",
-    "region": "Pre-Bracket",
+    "name": "Wow Smith",
     "category": [
-      "Playing With Power!",
-      "MONSTERMAU5"
+      "Bubsy The Bobcat",
+      "The Big Bad Wolf"
     ],
-    "requires": "|Playing With Power!| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |NES/SNES| AND |Dubstep|))"
+    "requires": "|Bubsy The Bobcat| AND |Moxie| AND (|Dice 2| OR |Dice 6|)"
   },
   {
-    "name": "Flat Zone 3",
-    "region": "Round 1",
+    "name": "[The Sky Has STRUCK BACK!!!]",
     "category": [
-      "Playing With Power!"
+      "Bubsy The Bobcat",
+      "Mother 3"
     ],
-    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category|))"
+    "requires": "|Bubsy The Bobcat| AND |Mother 3| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "region": "Round 1",
-    "name": "Into the Blast Zone",
+    "name": "This Cat's A Trainwreck!",
     "category": [
-      "Playing With Power!",
-      "Elliana"
+      "Bubsy The Bobcat",
+      "Barbie"
     ],
-    "requires": "|Playing With Power!| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |VGM/Chiptune Influenced EDM| AND |Rivals of Aether/flashygoodness| AND |FGC Competitions/2D Fighting Games| AND |War/Explosives|))"
+    "requires": "|Bubsy The Bobcat| AND |Barbie| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "region": "Round 1",
-    "name": "Out Of The Canopies",
+    "name": "Oh, Look! I Can't Fix You! Aren't These Mashup Artists Wonderful?",
     "category": [
-      "Playing With Power!",
-      "Elliana"
+      "Bubsy The Bobcat",
+      "Barbie"
     ],
-    "requires": "|Playing With Power!| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND (|Gameboy| OR |Birds|) AND |Rivals of Aether/flashygoodness| AND |VGM/Chiptune Influenced EDM| AND |FGC Competitions/2D Fighting Games| AND |War/Explosives| AND |Flight|))"
+    "requires": "|Bubsy The Bobcat| AND |Barbie| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "name": "Nether Starboy",
-    "region": "Round 1",
+    "name": "Wow Wow Bubsy",
     "category": [
-      "Playing With Power!",
-      "Hot Ones",
-      "Netherrack Nightmares"
+      "Bubsy The Bobcat",
+      "VineSpoops"
     ],
-    "requires": "|Playing With Power!| AND |Hot Ones| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Canines| AND |Heat/Fire/Summertime| AND |R&B|))"
+    "requires": "|Bubsy The Bobcat| AND |VineSpoops| AND (|Dice 2| OR |Dice 3|)"
   },
   {
-    "name": "Swimming Through the Stickerbrush",
-    "region": "Losers Round 1",
+    "name": "MEOW-FIOSO MOVIES IN 4D!!!",
     "category": [
-      "Playing With Power!"
+      "Bubsy The Bobcat"
     ],
-    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Birds| AND |Canines|))"
+    "requires": "|Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "Tetris Type Blu2: The Power Update",
-    "region": "Losers Round 1",
+    "name": "Skadoosh!",
     "category": [
-      "Playing With Power!",
-      "Head Chef Heavy"
+      "Po"
     ],
-    "requires": "|Playing With Power!| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Gameboy| AND |Valve Properties| AND |Eastern European Culture| AND |Food/Culinary Arts| AND (|Birds| OR |First Person Shooters/Class Based Shooters|)))"
+    "requires": "|Po| AND |Dice 3|"
   },
   {
-    "name": "Zagrajmy na Pegasusie",
-    "region": "Losers Round 1",
+    "name": "I Wanna Learn Kung Fu!",
     "category": [
-      "Playing With Power!",
-      "Head Chef Heavy"
+      "Po"
     ],
-    "requires": "|Playing With Power!| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Eastern European Culture| AND |Valve Properties|))"
+    "requires": "|Po| AND |Dice 3|"
   },
   {
-    "region": "Losers Round 1",
-    "name": "Factory Work Lunch Break",
+    "name": "Rocket Fuel X Baby One More Time - DJ Shadow & De La Soul ft. Tenacious D",
     "category": [
-      "Playing With Power!",
-      "Head Chef Heavy"
+      "Po",
+      "Robot Rock-U"
     ],
-    "requires": "|Playing With Power!| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |80s/90s Nintendo Non-Video Game Media| AND |Canines| AND |Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Food/Culinary Arts| AND |Valve Fan-Content|))"
+    "requires": "|Po| AND |Robot Rock-U| AND (|Dice 3| OR |Dice 4|)"
   },
   {
-    "name": "Gorilla Watchez",
-    "region": "Losers Round 1",
+    "name": "Crazy Little Me",
     "category": [
-      "Playing With Power!",
-      "Ace D. Copular"
+      "Po",
+      "Yerrr"
     ],
-    "requires": "|Playing With Power!| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Damon Albarn| AND |Alternative Rock|))"
+    "requires": "|Po| AND |Yerrr| AND (|Dice 3| OR |Dice 5|)"
   },
   {
-    "name": "Superfast Octopus",
-    "region": "Losers Round 1",
+    "name": "Friday Knockout",
     "category": [
-      "Playing With Power!",
-      "Ace D. Copular"
+      "Po",
+      "Heartsick Blades"
     ],
-    "requires": "|Playing With Power!| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Damon Albarn| AND (|Alternative Rock| OR |Turner Broadcasting|)))"
+    "requires": "|Po| AND |Heartsick Blades| AND |Dice 3|"
   },
   {
-    "name": "theme of an unbeatable surfer",
-    "region": "Losers Round 1",
+    "name": "Locked Eye, Open Smile",
     "category": [
-      "Playing With Power!"
+      "Po"
     ],
-    "requires": "|Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Birds| AND |Canines| AND |Game & Watch Galleries/Smash Bros. 'Other' Category|))"
+    "requires": "|Po| AND |Dice 3|"
   },
   {
-    "name": "Pomegranate Pomeranian",
-    "region": "Losers Round 1",
+    "name": "Basics In Spooping",
     "category": [
-      "Ruler of Everything",
-      "Guzma",
-      "Playing With Power!"
+      "VineSpoops"
     ],
-    "requires": "|Ruler of Everything| AND |Guzma| AND |Playing With Power!| AND ({YamlCompare(Sourcesanity == 0)} OR (|Game & Watch Galleries/Smash Bros. 'Other' Category| AND (|Canines| OR |Insects|) AND (|80s/90s Nintendo Non-Video Game Media| OR |Pokémon Media|) AND (|NES/SNES| OR |Tally Hall/Its Members|)))"
+    "requires": "|VineSpoops| AND |Dice 3|"
   },
   {
-    "name": "Monstercat vs. The Big Dogs",
-    "region": "Remix Week",
+    "name": "Trick Or Treat...? WHY NOT BOTH!!!",
     "category": [
-      "Playing With Power!",
-      "MONSTERMAU5",
-      "Gustavo Rocque"
+      "VineSpoops",
+      "Moxie"
     ],
-    "requires": "|Playing With Power!| AND |MONSTERMAU5| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |Dubstep| AND |deadmau5/mau5trap Artists| AND |Nickelodeon Media|))"
+    "requires": "|VineSpoops| AND |Moxie| AND (|Dice 3| OR |Dice 5|)"
   },
   {
-    "name": "now you're one of us",
-    "region": "Remix Week",
+    "name": "Woke Up With A Bling-Bang",
     "category": [
-      "Playing With Power!",
-      "Painful Dreamers"
+      "VineSpoops",
+      "Robot Rock-U"
     ],
-    "requires": "|Playing With Power!| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |RPGMaker| AND |Sleep/Dreams/Nightmares|))"
+    "requires": "|VineSpoops| AND |Robot Rock-U| AND (|Dice 3| OR |Dice 4|)"
   },
   {
-    "name": "Vacation to Dinosaur Island",
-    "region": "Winners Round 2",
+    "name": "GAME OVER, ITALY! WE HAVE SUCCESSFULLY POSSESSED EVERY PIZZA KNOWN TO MAN! AAAA-",
     "category": [
-      "Playing With Power!",
-      "Hot Ones"
+      "VineSpoops"
     ],
-    "requires": "|Playing With Power!| AND |Hot Ones| AND ({YamlCompare(Sourcesanity == 0)} OR (|NES/SNES| AND |Game & Watch Galleries/Smash Bros. 'Other' Category| AND |R&B| AND |88Rising/Collaborators|))"
+    "requires": "|VineSpoops| AND |Dice 3|"
   },
   {
-    "name": "Danger Down Under!",
-    "region": "Pre-Bracket",
+    "name": "Graveyard Bustin'",
     "category": [
-      "Head Chef Heavy"
+      "VineSpoops"
+      "Heartsick Blades"
     ],
-    "requires": "|Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Valve Fan-Content| AND |Huey Lewis And The News|))"
+    "requires": "|VineSpoops| AND |Heartsick Blades| AND |Dice 3|"
   },
   {
-    "name": "yoooo wtf they got an olive garden in aperture science",
-    "region": "Pre-Bracket",
+    "name": "GARLIC PIZZAFACE",
     "category": [
-      "Head Chef Heavy",
-      "Club Bangers"
+      "VineSpoops",
+      "Yerrr"
     ],
-    "requires": "|Head Chef Heavy| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Ed Banger Records|))"
+    "requires": "|VineSpoops| AND |Yerrr| AND (|Dice 3| OR |Dice 5|)"
   },
   {
-    "region": "Pre-Bracket",
-    "name": "DANCE! DANCE! RASPUTIN!",
+    "name": "DESTROY THE CITY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! FU-",
     "category": [
-      "Head Chef Heavy",
-      "Forum Freakshow"
+      "VineSpoops",
+      "... in my katamari"
     ],
-    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Eastern European Culture| AND |SoundCloud Rappers|))"
+    "requires": "|VineSpoops| AND |... in my katamari| AND (|Dice 3| OR |Dice 4|)"
   },
   {
-    "name": "Follow That Car!",
-    "region": "Round 1",
+    "name": "GET GHOST... OUT OF MY BUTT!!! AAAAAAA-",
     "category": [
       "Head Chef Heavy"
     ],
@@ -1215,7 +1049,6 @@
   },
   {
     "name": "Kart and Payload Insurance: Double Dash!!",
-    "region": "Round 1",
     "category": [
       "gSports",
       "Head Chef Heavy"
@@ -1224,7 +1057,6 @@
   },
   {
     "name": "VIBR8R8R8",
-    "region": "Round 1",
     "category": [
       "gSports",
       "Head Chef Heavy"
@@ -1233,7 +1065,6 @@
   },
   {
     "name": "Plagues and Piglins",
-    "region": "Round 1",
     "category": [
       "Head Chef Heavy",
       "Netherrack Nightmares"
@@ -1241,7 +1072,6 @@
     "requires": "|Head Chef Heavy| AND |Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |Food/Culinary Arts| AND |Huey Lewis And The News| AND |Minecraft|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "Heavy Weapon of Choice",
     "category": [
       "Head Chef Heavy"
@@ -1250,7 +1080,6 @@
   },
   {
     "name": "Crypt of Cooking and Karaoke",
-    "region": "Losers Round 1",
     "category": [
       "Cadence",
       "Head Chef Heavy"
@@ -1258,7 +1087,6 @@
     "requires": "|Cadence| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Valve Properties| AND |First Person Shooters/Class Based Shooters| AND |Valve Fan-Content| AND |Huey Lewis And The News| AND |Eastern European Culture| AND |Rhythm Games| AND |Popularized Through Rhythm Games| AND |Danny Baranowsky| AND (|Guns| OR |Roguelikes|) AND (|Food/Culinary Arts| OR |Dungeon Crawlers|)))"
   },
   {
-    "region": "Remix Week",
     "name": "Neurotoxin Alfredo",
     "category": [
       "Club Bangers",
@@ -1268,7 +1096,6 @@
   },
   {
     "name": "MANN VS MACHINE NEO ~ 7th Wave",
-    "region": "Remix Week",
     "category": [
       "MTT! Tour",
       "Head Chef Heavy"
@@ -1277,7 +1104,6 @@
   },
   {
     "name": "Follow That Car! (Trap Remix)",
-    "region": "Remix Week",
     "category": [
       "Head Chef Heavy",
       "Forum Freakshow"
@@ -1286,7 +1112,6 @@
   },
   {
     "name": "THE FURNISHING BLOW",
-    "region": "Remix Week",
     "category": [
       "Forum Freakshow",
       "Scott the Woz",
@@ -1297,7 +1122,6 @@
   },
   {
     "name": "Schadenfreude",
-    "region": "Winners Round 2",
     "category": [
       "Bad Girlz",
       "Head Chef Heavy"
@@ -1306,7 +1130,6 @@
   },
   {
     "name": "The Big Bad Boss",
-    "region": "Pre-Bracket",
     "category": [
       "Guzma"
     ],
@@ -1314,7 +1137,6 @@
   },
   {
     "name": "U, Me, Us",
-    "region": "Pre-Bracket",
     "category": [
       "Guzma",
       "Hot Ones"
@@ -1323,7 +1145,6 @@
   },
   {
     "name": "Living On A Program Too",
-    "region": "Pre-Bracket",
     "category": [
       "Guzma",
       "MTT! Tour",
@@ -1333,7 +1154,6 @@
   },
   {
     "name": "Card Edge (aka Quagsire)",
-    "region": "Round 1",
     "category": [
       "Guzma"
     ],
@@ -1341,7 +1161,6 @@
   },
   {
     "name": "Late Night Ball Out",
-    "region": "Round 1",
     "category": [
       "Guzma",
       "Bad Girlz"
@@ -1350,7 +1169,6 @@
   },
   {
     "name": "Bad Bone Rocket",
-    "region": "Losers Round 1",
     "category": [
       "Guzma"
     ],
@@ -1358,7 +1176,6 @@
   },
   {
     "name": "One Last Fight to the Finish!",
-    "region": "Losers Round 1",
     "category": [
       "Guzma",
       "Cadence"
@@ -1367,7 +1184,6 @@
   },
   {
     "name": "Gun The Jewels",
-    "region": "Losers Round 1",
     "category": [
       "Guzma",
       "Cadence"
@@ -1376,7 +1192,6 @@
   },
   {
     "name": "Hasta La Viiistar!",
-    "region": "Losers Round 1",
     "category": [
       "Guzma",
       "Cadence"
@@ -1385,7 +1200,6 @@
   },
   {
     "name": "HM02",
-    "region": "Losers Round 1",
     "category": [
       "Guzma"
     ],
@@ -1393,7 +1207,6 @@
   },
   {
     "name": "A Life re:P-R-O-G-R-A-M-M-E-D",
-    "region": "Remix Week",
     "category": [
       "Guzma",
       "Susie Haltmann"
@@ -1402,7 +1215,6 @@
   },
   {
     "name": "Time Moves Again",
-    "region": "Pre-Bracket",
     "category": [
       "Heaven Ascension DIO"
     ],
@@ -1410,7 +1222,6 @@
   },
   {
     "name": "Dio's Dastardly Destructive Depository",
-    "region": "Pre-Bracket",
     "category": [
       "Ruler of Everything",
       "Heaven Ascension DIO"
@@ -1419,7 +1230,6 @@
   },
   {
     "name": "Yell \"Cannonball\"",
-    "region": "Pre-Bracket",
     "category": [
       "Elliana",
       "Heaven Ascension DIO"
@@ -1428,7 +1238,6 @@
   },
   {
     "name": "Stone-Bottomed Oceans",
-    "region": "Round 1",
     "category": [
       "Heaven Ascension DIO"
     ],
@@ -1436,7 +1245,6 @@
   },
   {
     "name": "Today I'll Steal A Kiss",
-    "region": "Round 1",
     "category": [
       "Heaven Ascension DIO",
       "River City Girls"
@@ -1445,7 +1253,6 @@
   },
   {
     "name": "Gotta Gimme A Chance!",
-    "region": "Round 1",
     "category": [
       "Heaven Ascension DIO",
       "River City Girls"
@@ -1454,7 +1261,6 @@
   },
   {
     "name": "Spectres Of Misfortune",
-    "region": "Round 1",
     "category": [
       "Heaven Ascension DIO",
       "River City Girls"
@@ -1463,7 +1269,6 @@
   },
   {
     "name": "BadBoyz4Breakfast",
-    "region": "Round 1",
     "category": [
       "Heaven Ascension DIO",
       "Bad Girlz"
@@ -1471,7 +1276,6 @@
     "requires": "|Heaven Ascension DIO| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Arena Fighters/3D Brawlers| AND |Billie Eilish/Collaborators| AND |Ke$ha/Collaborators|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "Weird Vaseline",
     "category": [
       "Rick Hentai",
@@ -1481,7 +1285,6 @@
   },
   {
     "name": "This Wickedness Consumes Me",
-    "region": "Winners Round 2",
     "category": [
       "Heaven Ascension DIO"
     ],
@@ -1489,7 +1292,6 @@
   },
   {
     "name": "Blood",
-    "region": "Winners Round 2",
     "category": [
       "Charles “All-Star” Barkley",
       "Heaven Ascension DIO"
@@ -1497,7 +1299,6 @@
     "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Shonen Jump| AND (|Arena Fighters/3D Brawlers| OR |Religion|) AND |JoJo's Bizarre Adventure Major Antagonists| AND |Vampires| AND |Sports/Training Montages| AND |Quad City DJs/Space Jam Artists| AND |Gnarls Barkley/Its Members| AND |90s Hip-Hop/Rap|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "NO MORE BALLERS",
     "category": [
       "Charles “All-Star” Barkley",
@@ -1506,7 +1307,6 @@
     "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|90s Hip-Hop/Rap| AND |Shonen Jump| AND |Quad City DJs/Space Jam Artists| AND |Arena Fighters/3D Brawlers| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Sports/Training Montages|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "ENTER: MONSTAR",
     "category": [
       "Charles “All-Star” Barkley",
@@ -1515,7 +1315,6 @@
     "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gnarls Barkley/Its Members| AND |Quad City DJs/Space Jam Artists| AND |Shonen Jump| AND |Sports/Training Montages| AND |90s Hip-Hop/Rap| AND |JoJo's Bizarre Adventure Major Antagonists| AND |Arena Fighters/3D Brawlers|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Black Hole Ballin' ~ Event Horizon Over Heaven",
     "category": [
       "Charles “All-Star” Barkley",
@@ -1525,7 +1324,6 @@
   },
   {
     "name": "「SANDS OF TIME」",
-    "region": "Remix Week",
     "category": [
       "Heaven Ascension DIO",
       "Ruler of Everything"
@@ -1534,7 +1332,6 @@
   },
   {
     "name": "Stand Tall, Breathe Out",
-    "region": "Remix Week",
     "category": [
       "Heaven Ascension DIO"
     ],
@@ -1542,7 +1339,6 @@
   },
   {
     "name": "Spectres of Misfortune [Other Side Mix]",
-    "region": "Remix Week",
     "category": [
       "Heaven Ascension DIO",
       "River City Girls"
@@ -1551,7 +1347,6 @@
   },
   {
     "name": "Sukuna Flow",
-    "region": "Winners Round 2",
     "category": [
       "Heaven Ascension DIO"
     ],
@@ -1559,7 +1354,6 @@
   },
   {
     "name": "Things Forgotten, Lost Their Time",
-    "region": "Pre-Bracket",
     "category": [
       "Ruler of Everything"
     ],
@@ -1567,7 +1361,6 @@
   },
   {
     "name": "Good Day, All Star!",
-    "region": "Pre-Bracket",
     "category": [
       "Ruler of Everything",
       "Black Mamba Farquaad"
@@ -1576,7 +1369,6 @@
   },
   {
     "name": "hi opal !",
-    "region": "Pre-Bracket",
     "category": [
       "Ruler of Everything",
       "Lofi Girl"
@@ -1584,7 +1376,6 @@
     "requires": "|Ruler of Everything| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Claymation/Stopmotion Media| OR |Bedroom Pop|))"
   },
   {
-    "region": "Round 1",
     "name": "Labyrinth",
     "category": [
       "Ruler of Everything"
@@ -1593,7 +1384,6 @@
   },
   {
     "name": "METTATON'S MAGICAL MECHANICAL MATCH!",
-    "region": "Round 1",
     "category": [
       "Ruler of Everything",
       "MTT! Tour"
@@ -1602,7 +1392,6 @@
   },
   {
     "name": "Monster Party",
-    "region": "Round 1",
     "category": [
       "Ruler of Everything",
       "MTT! Tour"
@@ -1611,7 +1400,6 @@
   },
   {
     "name": "Be Beautiful",
-    "region": "Round 1",
     "category": [
       "Ruler of Everything",
       "Bad Girlz"
@@ -1620,7 +1408,6 @@
   },
   {
     "name": "The Reflection Chamber",
-    "region": "Winners Round 2",
     "category": [
       "Ruler of Everything"
     ],
@@ -1628,7 +1415,6 @@
   },
   {
     "name": "Lord of the Flies",
-    "region": "Winners Round 2",
     "category": [
       "Ruler of Everything",
       "Ace D. Copular"
@@ -1636,7 +1422,6 @@
     "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Damon Albarn| AND |Alternative Rock| AND |Turner Broadcasting|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Beyond the Clouds",
     "category": [
       "Ruler of Everything",
@@ -1645,7 +1430,6 @@
     "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Damon Albarn| AND (|Claymation/Stopmotion Media| OR |Turner Broadcasting|)))"
   },
   {
-    "region": "Winners Round 2",
     "name": "The Butterfly Effect",
     "category": [
       "Ruler of Everything",
@@ -1654,7 +1438,6 @@
     "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Alternative Rock| AND |Damon Albarn|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "SAVE US FROM HIM",
     "category": [
       "Ruler of Everything",
@@ -1663,7 +1446,6 @@
     "requires": "|Ruler of Everything| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Royalty| AND |Turner Broadcasting| AND |Damon Albarn| AND |Alternative Rock|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "misfortune.mid",
     "category": [
       "Ruler of Everything"
@@ -1671,7 +1453,6 @@
     "requires": "|Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "merely dreaming we were snow",
     "category": [
       "Ruler of Everything",
@@ -1680,7 +1461,6 @@
     "requires": "|Ruler of Everything| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Psychedelic Genres| AND |RPGMaker|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Daydreams in Seas of Blue",
     "category": [
       "Ruler of Everything",
@@ -1690,7 +1470,6 @@
   },
   {
     "name": "Keep An Eye On Gravity",
-    "region": "Pre-Bracket",
     "category": [
       "Snailiens"
     ],
@@ -1698,7 +1477,6 @@
   },
   {
     "name": "LeviDating",
-    "region": "Pre-Bracket",
     "category": [
       "Snailiens",
       "MTT! Tour"
@@ -1707,7 +1485,6 @@
   },
   {
     "name": "Pasteltrain",
-    "region": "Pre-Bracket",
     "category": [
       "Snailiens",
       "Cadence"
@@ -1716,7 +1493,6 @@
   },
   {
     "name": "Shooting Star Signs",
-    "region": "Pre-Bracket",
     "category": [
       "Snailiens"
     ],
@@ -1724,7 +1500,6 @@
   },
   {
     "name": "Bonito Island",
-    "region": "Round 1",
     "category": [
       "Snailiens"
     ],
@@ -1732,7 +1507,6 @@
   },
   {
     "name": "CUUTIE",
-    "region": "Round 1",
     "category": [
       "Snailiens",
       "MONSTERMAU5"
@@ -1740,7 +1514,6 @@
     "requires": "|Snailiens| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Kero Kero Bonito| AND |Snail's House| AND |Space/Aliens| AND |Progressive House|))"
   },
   {
-    "region": "Round 1",
     "name": "We're Not Alone (ALIENS =ROAM= @MON& U$)",
     "category": [
       "Snailiens",
@@ -1749,7 +1522,6 @@
     "requires": "|Snailiens| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |Snail's House| AND |Kawaii Future Bass| AND |Kero Kero Bonito| AND |deadmau5/mau5trap Artists| AND |Space/Aliens| AND |Progressive House|))"
   },
   {
-    "region": "Round 1",
     "name": "ATTACK 0F TH3 MART1ANS",
     "category": [
       "Snailiens",
@@ -1758,7 +1530,6 @@
     "requires": "|Snailiens| AND |MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |Snail's House| AND |Kawaii Future Bass| AND |Kero Kero Bonito| AND |deadmau5/mau5trap Artists| AND |Space/Aliens| AND |Progressive House|))"
   },
   {
-    "region": "Round 1",
     "name": "Everybody's Beautiful",
     "category": [
       "Snailiens",
@@ -1767,7 +1538,6 @@
     "requires": "|Snailiens| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Snail's House| AND |SoundClowns| AND |Ray William Johnson| AND |YTPs/YTPMVs|))"
   },
   {
-    "region": "Round 1",
     "name": "Interstellar Slow Drive",
     "category": [
       "gSports",
@@ -1778,7 +1548,6 @@
   },
   {
     "name": "Baptism of Fire",
-    "region": "Round 1",
     "category": [
       "Club Bangers",
       "Hot Ones",
@@ -1788,7 +1557,6 @@
   },
   {
     "name": "Doctor's Sick",
-    "region": "Round 1",
     "category": [
       "Snailiens",
       "MONSTERMAU5"
@@ -1797,7 +1565,6 @@
   },
   {
     "name": "Wish Upon A Star",
-    "region": "Losers Round 1",
     "category": [
       "Snailiens"
     ],
@@ -1805,7 +1572,6 @@
   },
   {
     "name": "Musk Rush",
-    "region": "Losers Round 1",
     "category": [
       "Snailiens",
       "Gustavo Rocque"
@@ -1813,7 +1579,6 @@
     "requires": "|Snailiens| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Space/Aliens| AND |Kero Kero Bonito| AND |Big Time Rush/Stephen Glickman| AND |Boy Bands/Their Solo Acts| AND |Snail's House|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "Sunshine In My Pocket",
     "category": [
       "Snailiens",
@@ -1822,7 +1587,6 @@
     "requires": "|Snailiens| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Kero Kero Bonito| AND |Space/Aliens| AND |Boy Bands/Their Solo Acts| AND |Nickelodeon Media|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "Bird Calls",
     "category": [
       "Snailiens",
@@ -1831,7 +1595,6 @@
     "requires": "|Snailiens| AND |Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Well Known/Credited Music Producers| AND |Snail's House| AND |Kero Kero Bonito| AND |Big Time Rush/Stephen Glickman| AND |Kawaii Future Bass| AND |Boy Bands/Their Solo Acts| AND (|Nickelodeon Media| OR |Nickelodeon Records|)))"
   },
   {
-    "region": "Losers Round 1",
     "name": "Sea the Stars",
     "category": [
       "Snailiens",
@@ -1841,7 +1604,6 @@
   },
   {
     "name": "Pastel Fever",
-    "region": "Remix Week",
     "category": [
       "Snailiens",
       "Forum Freakshow"
@@ -1850,7 +1612,6 @@
   },
   {
     "name": "Sunshine In Mmyy Ppaarrttyy",
-    "region": "Remix Week",
     "category": [
       "Snailiens",
       "Forum Freakshow",
@@ -1860,7 +1621,6 @@
     "requires": "|Snailiens| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Kero Kero Bonito| AND |Boy Bands/Their Solo Acts| AND |Ed Banger Records| AND |Ray William Johnson|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "WE'RE WITH YOU",
     "category": [
       "Snailiens",
@@ -1871,14 +1631,12 @@
   },
   {
     "name": "Your New Frontier",
-    "region": "Winners Round 2",
     "category": [
       "Snailiens"
     ],
     "requires": "|Snailiens| AND ({YamlCompare(Sourcesanity == 0)} OR (|Kawaii Future Bass| AND |Space/Aliens| AND |Snail's House|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Peppermint Latte",
     "category": [
       "Snailiens",
@@ -1888,14 +1646,12 @@
   },
   {
     "name": "CA7 & MAU5",
-    "region": "Pre-Bracket",
     "category": [
       "MONSTERMAU5"
     ],
     "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|deadmau5/mau5trap Artists| AND |Progressive House| AND |Monstercat Artists|))"
   },
   {
-    "region": "Pre-Bracket",
     "name": "MONSTERS' ENERGY DR!NK",
     "category": [
       "MONSTERMAU5"
@@ -1904,7 +1660,6 @@
   },
   {
     "name": "Summertime Stroll",
-    "region": "Pre-Bracket",
     "category": [
       "MONSTERMAU5",
       "Hot Ones"
@@ -1913,7 +1668,6 @@
   },
   {
     "name": "L2V3LS (CB Deep Club Dumpster Dive Remix)",
-    "region": "Pre-Bracket",
     "category": [
       "MONSTERMAU5",
       "Club Bangers"
@@ -1921,7 +1675,6 @@
     "requires": "|MONSTERMAU5| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House| AND |deadmau5/mau5trap Artists| AND |Ed Banger Records| AND |Fatman Scoop| AND |Plunderphonics| AND |Dubstep|))"
   },
   {
-    "region": "Round 1",
     "name": "Isle of Unity",
     "category": [
       "MONSTERMAU5"
@@ -1929,7 +1682,6 @@
     "requires": "|MONSTERMAU5| AND ({YamlCompare(Sourcesanity == 0)} OR (|Progressive House| AND |deadmau5/mau5trap Artists| AND |Monstercat Artists| AND |Dubstep|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "Grief Haze Shadow",
     "category": [
       "MONSTERMAU5",
@@ -1938,7 +1690,6 @@
     "requires": "|MONSTERMAU5| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |deadmau5/mau5trap Artists| AND (|Rivals of Aether/flashygoodness| OR |Flight|) AND |VGM/Chiptune Influenced EDM| AND |War/Explosives|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "New Record",
     "category": [
       "MONSTERMAU5"
@@ -1947,7 +1698,6 @@
   },
   {
     "name": "D4NC1NG D0ꓘ0?!",
-    "region": "Winners Round 2",
     "category": [
       "MONSTERMAU5"
     ],
@@ -1955,7 +1705,6 @@
   },
   {
     "name": "1 0NLY W4N7 Y0U",
-    "region": "Winners Round 2",
     "category": [
       "MONSTERMAU5",
       "Bad Girlz"
@@ -1963,7 +1712,6 @@
     "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|2010/2019 Top 100 Billboards| AND |Monstercat Artists| AND |Progressive House| AND |deadmau5/mau5trap Artists| AND |Ke$ha/Collaborators| AND (|Billie Eilish/Collaborators| OR |Female Interscope Records Artists|)))"
   },
   {
-    "region": "Winners Round 2",
     "name": "TURN IT UP!",
     "category": [
       "MONSTERMAU5",
@@ -1972,7 +1720,6 @@
     "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ke$ha/Collaborators| AND |Money| AND |deadmau5/mau5trap Artists| AND |Monstercat Artists| AND (|Female Interscope Records Artists| AND (|Partying| OR |Billie Eilish/Collaborators|))))"
   },
   {
-    "region": "Winners Round 2",
     "name": "☆ P4R7Y 4N1M4L5 ☆",
     "category": [
       "MONSTERMAU5",
@@ -1981,7 +1728,6 @@
     "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|deadmau5/mau5trap Artists| AND |Progressive House| AND |2010/2019 Top 100 Billboards| AND |Partying| AND (|Female Interscope Records Artists| OR (|Billie Eilish/Collaborators| AND |Monstercat Artists|)) OR (|Monstercat Artists| OR (|Female Interscope Records Artists| AND |Billie Eilish/Collaborators|)) OR (|Billie Eilish/Collaborators| OR (|Female Interscope Records Artists| AND |Monstercat Artists|))))"
   },
   {
-    "region": "Winners Round 2",
     "name": "AAAAH",
     "category": [
       "MONSTERMAU5",
@@ -1990,7 +1736,6 @@
     "requires": "|MONSTERMAU5| AND |Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Monstercat Artists| AND |deadmau5/mau5trap Artists| AND |Ke$ha/Collaborators| AND (|Female Interscope Records Artists| OR |Partying|)))"
   },
   {
-    "region": "Remix Week",
     "name": "Sofi's Rebound",
     "category": [
       "Charles “All-Star” Barkley",
@@ -2000,7 +1745,6 @@
   },
   {
     "name": "mmm... organs :p",
-    "region": "Winners Round 2",
     "category": [
       "MONSTERMAU5",
       "Bad Girlz"
@@ -2009,7 +1753,6 @@
   },
   {
     "name": "Party Overtime",
-    "region": "Winners Round 2",
     "category": [
       "MONSTERMAU5",
       "Bad Girlz"
@@ -2018,7 +1761,6 @@
   },
   {
     "name": "Hellfire",
-    "region": "Winners Round 2",
     "category": [
       "MONSTERMAU5",
       "Forum Freakshow"
@@ -2026,7 +1768,6 @@
     "requires": "|MONSTERMAU5| AND |Forum Freakshow| AND ({YamlCompare(Sourcesanity == 0)} OR (|Dubstep| AND |deadmau5/mau5trap Artists| AND |Progressive House| AND |SoundClowns| AND |Ray William Johnson|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "MAU5T0RM",
     "category": [
       "MONSTERMAU5",
@@ -2036,7 +1777,6 @@
   },
   {
     "name": "Sun's Up",
-    "region": "Pre-Bracket",
     "category": [
       "Hot Ones"
     ],
@@ -2044,7 +1784,6 @@
   },
   {
     "name": "sangr14",
-    "region": "Pre-Bracket",
     "category": [
       "Hot Ones",
       "Netherrack Nightmares"
@@ -2053,7 +1792,6 @@
   },
   {
     "name": "The Prince of Fire",
-    "region": "Pre-Bracket",
     "category": [
       "MAD/EON",
       "Hot Ones"
@@ -2062,7 +1800,6 @@
   },
   {
     "name": "i miss u",
-    "region": "Pre-Bracket",
     "category": [
       "Hot Ones"
     ],
@@ -2070,7 +1807,6 @@
   },
   {
     "name": "Fuck The Rules",
-    "region": "Round 1",
     "category": [
       "Hot Ones"
     ],
@@ -2078,7 +1814,6 @@
   },
   {
     "name": "Daylight & Heart",
-    "region": "Round 1",
     "category": [
       "Hot Ones",
       "Lofi Girl"
@@ -2087,7 +1822,6 @@
   },
   {
     "name": "Afterbreeze",
-    "region": "Round 1",
     "category": [
       "Hot Ones",
       "Lofi Girl"
@@ -2096,7 +1830,6 @@
   },
   {
     "name": "Hollywood Sunset",
-    "region": "Round 1",
     "category": [
       "Hot Ones",
       "Lofi Girl"
@@ -2105,7 +1838,6 @@
   },
   {
     "name": "Hours of History",
-    "region": "Round 1",
     "category": [
       "Hot Ones",
       "Gustavo Rocque"
@@ -2114,7 +1846,6 @@
   },
   {
     "name": "Summer In Hollywood",
-    "region": "Losers Round 1",
     "category": [
       "Hot Ones"
     ],
@@ -2122,7 +1853,6 @@
   },
   {
     "name": "After Last Summertime",
-    "region": "Winners Round 2",
     "category": [
       "Hot Ones"
     ],
@@ -2130,7 +1860,6 @@
   },
   {
     "name": "Soothing Shoals",
-    "region": "Winners Round 2",
     "category": [
       "Hot Ones",
       "Black Mamba Farquaad"
@@ -2139,7 +1868,6 @@
   },
   {
     "name": "Faded Sunlight",
-    "region": "Winners Round 2",
     "category": [
       "Hot Ones",
       "Black Mamba Farquaad"
@@ -2147,7 +1875,6 @@
     "requires": "|Hot Ones| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Water/Aquatic Life| AND |88Rising/Collaborators| AND |R&B| AND |Smash Mouth/Shrek Artists| AND |Dreamworks| AND |Soul|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Laelius de Amicitia",
     "category": [
       "Hot Ones",
@@ -2156,7 +1883,6 @@
     "requires": "|Hot Ones| AND |Black Mamba Farquaad| AND ({YamlCompare(Sourcesanity == 0)} OR (|Smash Mouth/Shrek Artists| AND |R&B| AND |Water/Aquatic Life| AND |88Rising/Collaborators| AND |Dreamworks|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Rock The Boat",
     "category": [
       "Hot Ones",
@@ -2166,7 +1892,6 @@
   },
   {
     "name": "PUNCH A TREE | MINECRAFT paRODY OF SANCTUARY",
-    "region": "Remix Week",
     "category": [
       "Hot Ones",
       "Netherrack Nightmares"
@@ -2175,7 +1900,6 @@
   },
   {
     "name": "Slow Dancing In My Dream Dream Dreams",
-    "region": "Remix Week",
     "category": [
       "MTT! Tour",
       "Hot Ones",
@@ -2185,7 +1909,6 @@
   },
   {
     "name": "FEAR AND MISERY",
-    "region": "Remix Week",
     "category": [
       "Hot Ones"
     ],
@@ -2193,7 +1916,6 @@
   },
   {
     "name": "She's Still Superfast",
-    "region": "Remix Week",
     "category": [
       "Ace D. Copular",
       "Hot Ones"
@@ -2202,7 +1924,6 @@
   },
   {
     "name": "Pineapple Passion (There's No Pineapples Left in River City)",
-    "region": "Winners Round 2",
     "category": [
       "River City Girls",
       "Hot Ones"
@@ -2211,7 +1932,6 @@
   },
   {
     "name": "The Water's Gettin' Warm",
-    "region": "Pre-Bracket",
     "category": [
       "Black Mamba Farquaad"
     ],
@@ -2219,7 +1939,6 @@
   },
   {
     "name": "The Black Mamba Glowup",
-    "region": "Pre-Bracket",
     "category": [
       "Black Mamba Farquaad",
       "Gustavo Rocque"
@@ -2228,7 +1947,6 @@
   },
   {
     "name": "Walking On Water",
-    "region": "Pre-Bracket",
     "category": [
       "Ace D. Copular",
       "Black Mamba Farquaad",
@@ -2237,7 +1955,6 @@
     "requires": "|Ace D. Copular| AND |Black Mamba Farquaad| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Drugs/Psychedelic Imagery| AND |Smash Mouth/Shrek Artists| AND (|Water/Aquatic Life| OR (|Psychedelic Genres| OR |Damon Albarn|))))"
   },
   {
-    "region": "Round 1",
     "name": "Duloc Rock!",
     "category": [
       "Black Mamba Farquaad"
@@ -2246,7 +1963,6 @@
   },
   {
     "name": "ocean tide",
-    "region": "Round 1",
     "category": [
       "Black Mamba Farquaad",
       "Lofi Girl"
@@ -2255,7 +1971,6 @@
   },
   {
     "name": "Blue Skies of the New World",
-    "region": "Losers Round 1",
     "category": [
       "Susie Haltmann",
       "Black Mamba Farquaad"
@@ -2264,7 +1979,6 @@
   },
   {
     "name": "The Harbor Is Mine",
-    "region": "Winners Round 2",
     "category": [
       "Black Mamba Farquaad"
     ],
@@ -2272,7 +1986,6 @@
   },
   {
     "name": "SHREK/IS/LOVE",
-    "region": "Remix Week",
     "category": [
       "Black Mamba Farquaad",
       "Rick Hentai"
@@ -2281,7 +1994,6 @@
   },
   {
     "name": "owT ratS llA",
-    "region": "Remix Week",
     "category": [
       "Black Mamba Farquaad"
     ],
@@ -2289,7 +2001,6 @@
   },
   {
     "name": "Mile High Club",
-    "region": "Remix Week",
     "category": [
       "Painful Dreamers",
       "Elliana",
@@ -2301,7 +2012,6 @@
   },
   {
     "name": "Peace of Mind",
-    "region": "Winners Round 2",
     "category": [
       "Black Mamba Farquaad",
       "Club Bangers"
@@ -2310,7 +2020,6 @@
   },
   {
     "name": "Start The Game",
-    "region": "Pre-Bracket",
     "category": [
       "Charles “All-Star” Barkley"
     ],
@@ -2318,14 +2027,12 @@
   },
   {
     "name": "Stolen Talent",
-    "region": "Pre-Bracket",
     "category": [
       "Charles “All-Star” Barkley"
     ],
     "requires": "|Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Quad City DJs/Space Jam Artists| AND |90s Hip-Hop/Rap| AND |Sports/Training Montages|))"
   },
   {
-    "region": "Round 1",
     "name": "Don't You Call This A Regular Jam!",
     "category": [
       "Charles “All-Star” Barkley"
@@ -2334,7 +2041,6 @@
   },
   {
     "name": "Court Control",
-    "region": "Round 1",
     "category": [
       "Elliana",
       "Charles “All-Star” Barkley"
@@ -2343,7 +2049,6 @@
   },
   {
     "name": "A Touch of Gnarls Barkley",
-    "region": "Losers Round 1",
     "category": [
       "Charles “All-Star” Barkley",
       "Scatman & Hatman"
@@ -2351,7 +2056,6 @@
     "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|Jazz| AND |Sports/Training Montages| AND |One-Hit Wonders| AND |Quad City DJs/Space Jam Artists| AND |90s Hits| AND |Gnarls Barkley/Its Members|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "I Ain't Stupid",
     "category": [
       "Charles “All-Star” Barkley",
@@ -2360,7 +2064,6 @@
     "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman| AND ({YamlCompare(Sourcesanity == 0)} OR (|One-Hit Wonders| AND |Lou Bega| AND |Gnarls Barkley/Its Members|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Siriusly Crazy (Live)",
     "category": [
       "Charles “All-Star” Barkley"
@@ -2369,7 +2072,6 @@
   },
   {
     "name": "Flight of the Ballin' Phoenix",
-    "region": "Winners Round 2",
     "category": [
       "Elliana",
       "Charles “All-Star” Barkley"
@@ -2378,7 +2080,6 @@
   },
   {
     "name": "Fifteen Seconds",
-    "region": "Winners Round 2",
     "category": [
       "Charles “All-Star” Barkley",
       "River City Girls",
@@ -2388,7 +2089,6 @@
   },
   {
     "name": "G-Code",
-    "region": "Pre-Bracket",
     "category": [
       "Ace D. Copular"
     ],
@@ -2396,7 +2096,6 @@
   },
   {
     "name": "Roughnecked Collar",
-    "region": "Pre-Bracket",
     "category": [
       "Ace D. Copular",
       "Bad Girlz",
@@ -2406,7 +2105,6 @@
   },
   {
     "name": "Uncomplicated Underground",
-    "region": "Pre-Bracket",
     "category": [
       "Netherrack Nightmares",
       "Ace D. Copular"
@@ -2415,7 +2113,6 @@
   },
   {
     "name": "lewdWORLDorder",
-    "region": "Pre-Bracket",
     "category": [
       "Ace D. Copular",
       "Rick Hentai"
@@ -2424,7 +2121,6 @@
   },
   {
     "name": "1999",
-    "region": "Round 1",
     "category": [
       "Ace D. Copular"
     ],
@@ -2432,7 +2128,6 @@
   },
   {
     "name": "Gangreen Skans",
-    "region": "Round 1",
     "category": [
       "Club Bangers",
       "Ace D. Copular"
@@ -2440,7 +2135,6 @@
     "requires": "|Club Bangers| AND |Ace D. Copular| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Alternative Rock| AND |Ed Banger Records| AND |Turntablism|))"
   },
   {
-    "region": "Round 1",
     "name": "Bruce Willis Wants Me Dead",
     "category": [
       "Club Bangers",
@@ -2450,7 +2144,6 @@
   },
   {
     "name": "Sleeping Powder Can't Be Beat",
-    "region": "Round 1",
     "category": [
       "Ace D. Copular",
       "Cadence"
@@ -2459,7 +2152,6 @@
   },
   {
     "name": "i'll be fine...",
-    "region": "Round 1",
     "category": [
       "Lofi Girl",
       "Ace D. Copular"
@@ -2467,7 +2159,6 @@
     "requires": "|Ace D. Copular| AND |Lofi Girl| AND ({YamlCompare(Sourcesanity == 0)} OR (|Damon Albarn| AND |Turner Broadcasting| AND |Bedroom Pop|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Signalz",
     "category": [
       "Ace D. Copular"
@@ -2476,7 +2167,6 @@
   },
   {
     "name": "Conquest, War, and Flatulence",
-    "region": "Remix Week",
     "category": [
       "Ace D. Copular",
       "Elliana",
@@ -2486,7 +2176,6 @@
   },
   {
     "name": "i feel fine!",
-    "region": "Remix Week",
     "category": [
       "Lofi Girl",
       "Ace D. Copular"
@@ -2495,7 +2184,6 @@
   },
   {
     "name": "All We Need!",
-    "region": "Pre-Bracket",
     "category": [
       "gSports"
     ],
@@ -2503,7 +2191,6 @@
   },
   {
     "name": "Focused Love",
-    "region": "Pre-Bracket",
     "category": [
       "gSports",
       "River City Girls"
@@ -2512,7 +2199,6 @@
   },
   {
     "name": "Driving 2 Woo Hoo: Hold The Brakes!",
-    "region": "Pre-Bracket",
     "category": [
       "Bad Girlz",
       "Gustavo Rocque",
@@ -2522,7 +2208,6 @@
   },
   {
     "name": "PEPSI MAN TICO TICO !!! ペプシ",
-    "region": "Pre-Bracket",
     "category": [
       "Scatman & Hatman",
       "gSports"
@@ -2530,7 +2215,6 @@
     "requires": "|Scatman & Hatman| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Advertisements/GEICO Ads| AND |Lou Bega|))"
   },
   {
-    "region": "Round 1",
     "name": "Saxy Spiral: Type 4",
     "category": [
       "gSports"
@@ -2539,7 +2223,6 @@
   },
   {
     "name": "Eumig and Chitlins",
-    "region": "Round 1",
     "category": [
       "Club Bangers",
       "gSports"
@@ -2548,7 +2231,6 @@
   },
   {
     "name": "Goodbye Cruiser, Hello Wuhu",
-    "region": "Winners Round 2",
     "category": [
       "Scott the Woz",
       "gSports"
@@ -2556,7 +2238,6 @@
     "requires": "|Scott the Woz| AND |gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Scott the Woz/Collaborators| AND |Advertisements/GEICO Ads| AND |Wii Series| AND |Gaming Youtubers| AND |Super Smash Bros Originals| AND (|Mario Kart| OR |Racing Games| OR |Vehicles|)))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Roll Up, Spit Fire",
     "category": [
       "gSports"
@@ -2565,7 +2246,6 @@
   },
   {
     "name": "START YOUR ENGINES",
-    "region": "Winners Round 2",
     "category": [
       "gSports",
       "Elliana"
@@ -2573,7 +2253,6 @@
     "requires": "|gSports| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |Streamers/Streaming/Streamer Background Music| AND |Racing Games| AND |Advertisements/GEICO Ads| AND |Flight| AND |War/Explosives|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Rare Footage",
     "category": [
       "gSports",
@@ -2582,7 +2261,6 @@
     "requires": "|gSports| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |Advertisements/GEICO Ads| AND |Racing Games| AND |Vehicles|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "You Blew Up My Truck",
     "category": [
       "gSports",
@@ -2591,7 +2269,6 @@
     "requires": "|gSports| AND |Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|Advertisements/GEICO Ads| AND |Twitch Games/eSports Games| AND |War/Explosives| AND |FGC Competitions/2D Fighting Games|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Midnight's Last Stand",
     "category": [
       "gSports",
@@ -2601,7 +2278,6 @@
   },
   {
     "name": "taking my time",
-    "region": "Remix Week",
     "category": [
       "gSports",
       "Lofi Girl"
@@ -2610,7 +2286,6 @@
   },
   {
     "name": "Death of a Rockstar",
-    "region": "Winners Round 2",
     "category": [
       "Gustavo Rocque",
       "gSports"
@@ -2619,7 +2294,6 @@
   },
   {
     "name": "Phantom Trio",
-    "region": "Pre-Bracket",
     "category": [
       "MTT! Tour"
     ],
@@ -2627,7 +2301,6 @@
   },
   {
     "name": "TARI COREBUR COREBUR",
-    "region": "Pre-Bracket",
     "category": [
       "MTT! Tour",
       "Rick Hentai"
@@ -2636,7 +2309,6 @@
   },
   {
     "name": "But Nobody Came",
-    "region": "Round 1",
     "category": [
       "MTT! Tour"
     ],
@@ -2644,7 +2316,6 @@
   },
   {
     "name": "Chasing That Rush",
-    "region": "Round 1",
     "category": [
       "MTT! Tour",
       "Gustavo Rocque"
@@ -2653,14 +2324,12 @@
   },
   {
     "name": "What's That Noise?",
-    "region": "Losers Round 1",
     "category": [
       "MTT! Tour"
     ],
     "requires": "|MTT! Tour| AND ({YamlCompare(Sourcesanity == 0)} OR (|Robots| AND (|UNDERTALE/DELTARUNE| OR |Ghosts|)))"
   },
   {
-    "region": "Losers Round 1",
     "name": "The Legend of the Phoenix",
     "category": [
       "MTT! Tour",
@@ -2669,7 +2338,6 @@
     "requires": "|MTT! Tour| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |French Touch| AND |Ed Banger Records| AND (|Ghosts| OR |Plunderphonics|)))"
   },
   {
-    "region": "Losers Round 1",
     "name": "Shut the Hotel Door",
     "category": [
       "MTT! Tour",
@@ -2678,7 +2346,6 @@
     "requires": "|MTT! Tour| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|UNDERTALE/DELTARUNE| AND |French Touch| AND |Ed Banger Records| AND |Gigi D'Agostino|))"
   },
   {
-    "region": "Losers Round 1",
     "name": "SECAM TO THE PIPIS",
     "category": [
       "MTT! Tour",
@@ -2688,7 +2355,6 @@
   },
   {
     "name": "Digital Hopes And Dreams Dreams Dreams",
-    "region": "Losers Round 1",
     "category": [
       "MAD/EON",
       "MTT! Tour"
@@ -2697,7 +2363,6 @@
   },
   {
     "name": "Taking Over National Television",
-    "region": "Losers Round 1",
     "category": [
       "MTT! Tour"
     ],
@@ -2705,7 +2370,6 @@
   },
   {
     "name": "The Beginning Of The End",
-    "region": "Losers Round 1",
     "category": [
       "Cadence",
       "MTT! Tour"
@@ -2714,7 +2378,6 @@
   },
   {
     "name": "Manic, Iconic, Metallic",
-    "region": "Losers Round 1",
     "category": [
       "Forum Freakshow",
       "Susie Haltmann",
@@ -2724,7 +2387,6 @@
   },
   {
     "name": "#AEROSOL // CORE",
-    "region": "Remix Week",
     "category": [
       "MTT! Tour"
     ],
@@ -2732,7 +2394,6 @@
   },
   {
     "name": "Potion Diamond Funk",
-    "region": "Winners Round 2",
     "category": [
       "MTT! Tour",
       "Netherrack Nightmares"
@@ -2741,7 +2402,6 @@
   },
   {
     "name": "Minecrap",
-    "region": "Winners Round 2",
     "category": [
       "MTT! Tour",
       "Netherrack Nightmares"
@@ -2750,7 +2410,6 @@
   },
   {
     "name": "Eurodancin' Around The World",
-    "region": "Pre-Bracket",
     "category": [
       "Scatman & Hatman"
     ],
@@ -2758,7 +2417,6 @@
   },
   {
     "name": "Everybody's Back!",
-    "region": "Pre-Bracket",
     "category": [
       "Gustavo Rocque",
       "Scatman & Hatman"
@@ -2767,7 +2425,6 @@
   },
   {
     "name": "Scatman, Hatman, & Madman",
-    "region": "Pre-Bracket",
     "category": [
       "Scatman & Hatman",
       "MAD/EON"
@@ -2776,7 +2433,6 @@
   },
   {
     "name": "Children's Origami",
-    "region": "Winners Round 2",
     "category": [
       "Scatman & Hatman"
     ],
@@ -2784,7 +2440,6 @@
   },
   {
     "name": "Don't Run From The Sunshine",
-    "region": "Winners Round 2",
     "category": [
       "Rick Hentai",
       "Scatman & Hatman"
@@ -2793,7 +2448,6 @@
   },
   {
     "name": "NTR",
-    "region": "Winners Round 2",
     "category": [
       "Rick Hentai",
       "Scatman & Hatman"
@@ -2802,7 +2456,6 @@
   },
   {
     "name": "&quot;afroman_-_because_i_got_high_(music_video).mp3&quot;",
-    "region": "Winners Round 2",
     "category": [
       "Rick Hentai",
       "Scatman & Hatman"
@@ -2811,7 +2464,6 @@
   },
   {
     "name": "Dansen In My Room (2019 Bootleg Remix)",
-    "region": "Winners Round 2",
     "category": [
       "Rick Hentai",
       "Scatman & Hatman"
@@ -2820,7 +2472,6 @@
   },
   {
     "name": "&quot;gnirob_-_the_high_life_(2024_bootleg_flip).mp3&quot;",
-    "region": "Remix Week",
     "category": [
       "Rick Hentai",
       "Scatman & Hatman"
@@ -2829,7 +2480,6 @@
   },
   {
     "name": "we ☆ did ☆ it!",
-    "region": "Remix Week",
     "category": [
       "Scatman & Hatman"
     ],
@@ -2837,7 +2487,6 @@
   },
   {
     "name": "Scott the Worlds",
-    "region": "Winners Round 2",
     "category": [
       "MAD/EON",
       "Scatman & Hatman",
@@ -2847,7 +2496,6 @@
   },
   {
     "name": "Disco Adrenaline",
-    "region": "Pre-Bracket",
     "category": [
       "Cadence"
     ],
@@ -2855,7 +2503,6 @@
   },
   {
     "name": "Pico",
-    "region": "Pre-Bracket",
     "category": [
       "Lofi Girl",
       "Cadence",
@@ -2865,7 +2512,6 @@
   },
   {
     "name": "Para Para Mausoleum シングルトリプル",
-    "region": "Round 1",
     "category": [
       "Cadence"
     ],
@@ -2873,7 +2519,6 @@
   },
   {
     "name": "Momentum Mortis",
-    "region": "Round 1",
     "category": [
       "Cadence",
       "Reanimatedd"
@@ -2882,7 +2527,6 @@
   },
   {
     "name": "Randumb Retro",
-    "region": "Round 1",
     "category": [
       "Cadence",
       "Reanimatedd"
@@ -2891,7 +2535,6 @@
   },
   {
     "name": "City of Lost Love",
-    "region": "Losers Round 1",
     "category": [
       "Cadence"
     ],
@@ -2899,7 +2542,6 @@
   },
   {
     "name": "Pico's School of Thought",
-    "region": "Remix Week",
     "category": [
       "Lofi Girl",
       "Cadence",
@@ -2909,7 +2551,6 @@
   },
   {
     "name": "Padded Cell",
-    "region": "Winners Round 2",
     "category": [
       "Cadence",
       "Club Bangers"
@@ -2918,7 +2559,6 @@
   },
   {
     "name": "Back Alley Blitz / I'm Still In A Dream",
-    "region": "Winners Round 2",
     "category": [
       "Cadence",
       "Elliana"
@@ -2927,7 +2567,6 @@
   },
   {
     "name": "Girl's Fight Out",
-    "region": "Winners Round 2",
     "category": [
       "Cadence",
       "Bad Girlz",
@@ -2938,7 +2577,6 @@
   },
   {
     "name": "Bad, Bad News",
-    "region": "Pre-Bracket",
     "category": [
       "Bad Girlz"
     ],
@@ -2946,14 +2584,12 @@
   },
   {
     "name": "Raising The Roof",
-    "region": "Pre-Bracket",
     "category": [
       "Bad Girlz"
     ],
     "requires": "|Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ke$ha/Collaborators| AND |Female Interscope Records Artists| AND |2010/2019 Top 100 Billboards| AND |Partying|))"
   },
   {
-    "region": "Round 1",
     "name": "you are the worst",
     "category": [
       "Bad Girlz"
@@ -2962,7 +2598,6 @@
   },
   {
     "name": "young love",
-    "region": "Round 1",
     "category": [
       "Bad Girlz",
       "Gustavo Rocque"
@@ -2971,7 +2606,6 @@
   },
   {
     "name": "bad breakup",
-    "region": "Round 1",
     "category": [
       "Bad Girlz",
       "Gustavo Rocque"
@@ -2980,7 +2614,6 @@
   },
   {
     "name": "imma call if it dont work",
-    "region": "Losers Round 1",
     "category": [
       "Bad Girlz",
       "Forum Freakshow"
@@ -2989,14 +2622,12 @@
   },
   {
     "name": "Lucifer Solitaria",
-    "region": "Winners Round 2",
     "category": [
       "Bad Girlz"
     ],
     "requires": "|Bad Girlz| AND ({YamlCompare(Sourcesanity == 0)} OR (|Female Interscope Records Artists|))"
   },
   {
-    "region": "Remix Week",
     "name": "Into The Divinity (Megamix Live Edit)",
     "category": [
       "MAD/EON",
@@ -3006,7 +2637,6 @@
   },
   {
     "name": "幸せな変態 ♡♡♡ [HAPPY HENTAI!]",
-    "region": "Pre-Bracket",
     "category": [
       "Rick Hentai"
     ],
@@ -3014,14 +2644,12 @@
   },
   {
     "name": "Out Of Sweet Touches",
-    "region": "Pre-Bracket",
     "category": [
       "Rick Hentai"
     ],
     "requires": "|Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| and |Rick Astley| AND |80s New Wave| AND |Bait-And-Switch|))"
   },
   {
-    "region": "Round 1",
     "name": "Fukkirickastley",
     "category": [
       "Rick Hentai"
@@ -3030,7 +2658,6 @@
   },
   {
     "name": "RAVE CYCLES (( 焚き火です)) ! // ♡☆♡",
-    "region": "Round 1",
     "category": [
       "Rick Hentai",
       "Forum Freakshow"
@@ -3039,7 +2666,6 @@
   },
   {
     "name": "Audiophile",
-    "region": "Round 1",
     "category": [
       "Rick Hentai",
       "Forum Freakshow"
@@ -3048,7 +2674,6 @@
   },
   {
     "name": "Epic Rap Battles of Megamix. Forum Freakshow vs Rick Hentai.",
-    "region": "Round 1",
     "category": [
       "Rick Hentai",
       "Forum Freakshow"
@@ -3057,7 +2682,6 @@
   },
   {
     "name": "Feelings That Can't Be Ignored",
-    "region": "Winners Round 2",
     "category": [
       "Rick Hentai"
     ],
@@ -3065,7 +2689,6 @@
   },
   {
     "name": "D.A.A.N.A.C.C.E CYCLES ((スポットライトの下で)) ! // ♡☆♡",
-    "region": "Remix Week",
     "category": [
       "Rick Hentai",
       "Forum Freakshow"
@@ -3074,7 +2697,6 @@
   },
   {
     "name": "take-on-mi",
-    "region": "Winners Round 2",
     "category": [
       "MAD/EON",
       "Rick Hentai"
@@ -3083,7 +2705,6 @@
   },
   {
     "name": "Claustrophobia",
-    "region": "Winners Round 2",
     "category": [
       "MAD/EON",
       "Rick Hentai"
@@ -3092,7 +2713,6 @@
   },
   {
     "name": "Consider Your Ground STAMPED!",
-    "region": "Winners Round 2",
     "category": [
       "Reanimatedd",
       "Rick Hentai"
@@ -3101,7 +2721,6 @@
   },
   {
     "name": "It Takes 2 Players To Tango!",
-    "region": "Pre-Bracket",
     "category": [
       "River City Girls"
     ],
@@ -3109,7 +2728,6 @@
   },
   {
     "name": "Let's Go Paint The Town RED!",
-    "region": "Pre-Bracket",
     "category": [
       "River City Girls"
     ],
@@ -3117,7 +2735,6 @@
   },
   {
     "name": "Keep the Crazy Groovin'",
-    "region": "Round 1",
     "category": [
       "River City Girls"
     ],
@@ -3125,7 +2742,6 @@
   },
   {
     "name": "Lovely Surf~",
-    "region": "Losers Round 1",
     "category": [
       "River City Girls"
     ],
@@ -3133,7 +2749,6 @@
   },
   {
     "name": "Whose World Is It?",
-    "region": "Pre-Bracket",
     "category": [
       "Reanimatedd"
     ],
@@ -3141,7 +2756,6 @@
   },
   {
     "name": "Electrose Thribello",
-    "region": "Round 1",
     "category": [
       "Reanimatedd"
     ],
@@ -3149,7 +2763,6 @@
   },
   {
     "name": "Screaming Sleepyedds",
-    "region": "Losers Round 1",
     "category": [
       "Reanimatedd",
       "Painful Dreamers"
@@ -3158,7 +2771,6 @@
   },
   {
     "name": "asdfmovie80",
-    "region": "Winners Round 2",
     "category": [
       "Reanimatedd"
     ],
@@ -3166,7 +2778,6 @@
   },
   {
     "name": "Off The Meds",
-    "region": "Pre-Bracket",
     "category": [
       "Forum Freakshow"
     ],
@@ -3174,7 +2785,6 @@
   },
   {
     "name": "Memed Back To Life",
-    "region": "Pre-Bracket",
     "category": [
       "MAD/EON",
       "Forum Freakshow"
@@ -3183,7 +2793,6 @@
   },
   {
     "name": "Straight To Voicemail",
-    "region": "Round 1",
     "category": [
       "Forum Freakshow"
     ],
@@ -3191,7 +2800,6 @@
   },
   {
     "name": "Firepowder",
-    "region": "Round 1",
     "category": [
       "Forum Freakshow",
       "Painful Dreamers"
@@ -3200,7 +2808,6 @@
   },
   {
     "name": "172.88.69.251",
-    "region": "Losers Round 1",
     "category": [
       "Forum Freakshow"
     ],
@@ -3208,7 +2815,6 @@
   },
   {
     "name": "Mega Aqruh Tunnel 420",
-    "region": "Losers Round 1",
     "category": [
       "Forum Freakshow"
     ],
@@ -3216,7 +2822,6 @@
   },
   {
     "name": "The Wii Sobriety Test",
-    "region": "Losers Round 1",
     "category": [
       "Scott the Woz",
       "Forum Freakshow"
@@ -3225,7 +2830,6 @@
   },
   {
     "name": "BEWARE. I AM THE BOOGIEMAN.",
-    "region": "Winners Round 2",
     "category": [
       "Forum Freakshow"
     ],
@@ -3233,7 +2837,6 @@
   },
   {
     "name": "You Were In My Dream Last Night",
-    "region": "Pre-Bracket",
     "category": [
       "Painful Dreamers"
     ],
@@ -3241,7 +2844,6 @@
   },
   {
     "name": "THE END iiS NiiGH",
-    "region": "Pre-Bracket",
     "category": [
       "Painful Dreamers"
     ],
@@ -3249,14 +2851,12 @@
   },
   {
     "name": "The Joy Won't Love You Like I Do",
-    "region": "Round 1",
     "category": [
       "Painful Dreamers"
     ],
     "requires": "|Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Drugs/Psychedelic Imagery|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "Nowhere Train",
     "category": [
       "Painful Dreamers"
@@ -3265,7 +2865,6 @@
   },
   {
     "name": "Still Waking Up At 3AM",
-    "region": "Winners Round 2",
     "category": [
       "Netherrack Nightmares",
       "Painful Dreamers"
@@ -3274,7 +2873,6 @@
   },
   {
     "name": "WonderSomnia",
-    "region": "Winners Round 2",
     "category": [
       "Netherrack Nightmares",
       "Painful Dreamers"
@@ -3282,7 +2880,6 @@
     "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|RPGMaker| AND |Minecraft| AND |Videogame Mods| AND |Sleep/Dreams/Nightmares| AND |Drugs/Psychedelic Imagery| AND (|Creepypastas| OR |The Apocalypse|)))"
   },
   {
-    "region": "Winners Round 2",
     "name": "更車賈滑串句龜龜契金",
     "category": [
       "Netherrack Nightmares",
@@ -3291,7 +2888,6 @@
     "requires": "|Netherrack Nightmares| AND |Painful Dreamers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Minecraft| AND |Voxel Games| AND |RPGMaker| AND |Drugs/Psychedelic Imagery|))"
   },
   {
-    "region": "Winners Round 2",
     "name": "There Are Monsters Nearby (Potion of Fire Resistance)",
     "category": [
       "Netherrack Nightmares",
@@ -3301,7 +2897,6 @@
   },
   {
     "name": "Still Awake At 3AM",
-    "region": "Remix Week",
     "category": [
       "Netherrack Nightmares",
       "Painful Dreamers"
@@ -3310,7 +2905,6 @@
   },
   {
     "name": "Monsters! (You May Not Rest Now...)",
-    "region": "Remix Week",
     "category": [
       "Netherrack Nightmares",
       "Painful Dreamers"
@@ -3319,7 +2913,6 @@
   },
   {
     "name": "Vengeful Digger: Modded",
-    "region": "Pre-Bracket",
     "category": [
       "Netherrack Nightmares"
     ],
@@ -3327,7 +2920,6 @@
   },
   {
     "name": "hyperabstraction",
-    "region": "Round 1",
     "category": [
       "Netherrack Nightmares"
     ],
@@ -3335,7 +2927,6 @@
   },
   {
     "name": "Bury Me In Cobblestone",
-    "region": "Round 1",
     "category": [
       "Netherrack Nightmares",
       "MAD/EON"
@@ -3344,7 +2935,6 @@
   },
   {
     "name": "Hell's End",
-    "region": "Round 1",
     "category": [
       "Netherrack Nightmares",
       "MAD/EON"
@@ -3353,7 +2943,6 @@
   },
   {
     "name": "THE BRICKS: AN EPIC MADEON MINECRAFT PARODY",
-    "region": "Round 1",
     "category": [
       "Netherrack Nightmares",
       "MAD/EON"
@@ -3362,7 +2951,6 @@
   },
   {
     "name": "Shreds of Red",
-    "region": "Round 1",
     "category": [
       "Netherrack Nightmares",
       "MAD/EON"
@@ -3371,7 +2959,6 @@
   },
   {
     "name": "drowned1.ogg",
-    "region": "Losers Round 1",
     "category": [
       "Netherrack Nightmares"
     ],
@@ -3379,7 +2966,6 @@
   },
   {
     "name": "Chunk Errors",
-    "region": "Winners Round 2",
     "category": [
       "Netherrack Nightmares"
     ],
@@ -3387,14 +2973,12 @@
   },
   {
     "name": "hyperabstraction (Alpha v1.0.16_02)",
-    "region": "Remix Week",
     "category": [
       "Netherrack Nightmares"
     ],
     "requires": "|Netherrack Nightmares| AND ({YamlCompare(Sourcesanity == 0)} OR (|Creepypastas| AND |Minecraft| AND |C418|))"
   },
   {
-    "region": "Remix Week",
     "name": "Vengeful Digger³",
     "category": [
       "Netherrack Nightmares"
@@ -3403,7 +2987,6 @@
   },
   {
     "name": "Cover Me In Deepslate",
-    "region": "Remix Week",
     "category": [
       "Netherrack Nightmares",
       "MAD/EON"
@@ -3411,7 +2994,6 @@
     "requires": "|Netherrack Nightmares| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|ARGs| AND |Sandbox Games| AND |Industrial/Dark Techno| AND |Madeon/Collaborators| AND |Minecraft|))"
   },
   {
-    "region": "Pre-Bracket",
     "name": "Aether's Lost Hope",
     "category": [
       "Elliana"
@@ -3420,14 +3002,12 @@
   },
   {
     "name": "Psycho Soldier",
-    "region": "Pre-Bracket",
     "category": [
       "Elliana"
     ],
     "requires": "|Elliana| AND ({YamlCompare(Sourcesanity == 0)} OR (|FGC Competitions/2D Fighting Games| AND |War/Explosives|))"
   },
   {
-    "region": "Round 1",
     "name": "Squadrons, Deploy!",
     "category": [
       "Elliana"
@@ -3436,7 +3016,6 @@
   },
   {
     "name": "The War On Nazareth",
-    "region": "Round 1",
     "category": [
       "Elliana",
       "Club Bangers"
@@ -3445,7 +3024,6 @@
   },
   {
     "name": "Bombs Over My Mind",
-    "region": "Winners Round 2",
     "category": [
       "Elliana"
     ],
@@ -3453,7 +3031,6 @@
   },
   {
     "name": "MUSIC MADE ME FEEL NOTHING",
-    "region": "Pre-Bracket",
     "category": [
       "MAD/EON"
     ],
@@ -3461,7 +3038,6 @@
   },
   {
     "name": "You May Find It Hard To Breathe",
-    "region": "Pre-Bracket",
     "category": [
       "MAD/EON"
     ],
@@ -3469,7 +3045,6 @@
   },
   {
     "name": "Adventurous (live mashup)",
-    "region": "Round 1",
     "category": [
       "MAD/EON"
     ],
@@ -3477,7 +3052,6 @@
   },
   {
     "name": "Home (Evil Edit)",
-    "region": "Losers Round 1",
     "category": [
       "MAD/EON"
     ],
@@ -3485,7 +3059,6 @@
   },
   {
     "name": "A Joyous Miracle",
-    "region": "Losers Round 1",
     "category": [
       "MAD/EON",
       "Club Bangers"
@@ -3494,7 +3067,6 @@
   },
   {
     "name": "Two Steps Back",
-    "region": "Losers Round 1",
     "category": [
       "MAD/EON"
     ],
@@ -3502,7 +3074,6 @@
   },
   {
     "name": "THE ADVENTURE NEVER ENDS",
-    "region": "Remix Week",
     "category": [
       "MAD/EON"
     ],
@@ -3510,7 +3081,6 @@
   },
   {
     "name": "sketchbook",
-    "region": "Pre-Bracket",
     "category": [
       "Lofi Girl"
     ],
@@ -3518,7 +3088,6 @@
   },
   {
     "name": "sofia's bike",
-    "region": "Round 1",
     "category": [
       "Lofi Girl"
     ],
@@ -3526,7 +3095,6 @@
   },
   {
     "name": "brings out the tiger in you",
-    "region": "Losers Round 1",
     "category": [
       "Lofi Girl"
     ],
@@ -3534,7 +3102,6 @@
   },
   {
     "name": "audio test",
-    "region": "Losers Round 1",
     "category": [
       "Lofi Girl"
     ],
@@ -3542,7 +3109,6 @@
   },
   {
     "name": "feeling anxious",
-    "region": "Winners Round 2",
     "category": [
       "Lofi Girl",
       "Scott the Woz"
@@ -3551,14 +3117,12 @@
   },
   {
     "name": "Looking For The Perfect Girl",
-    "region": "Pre-Bracket",
     "category": [
       "Gustavo Rocque"
     ],
     "requires": "|Gustavo Rocque| AND ({YamlCompare(Sourcesanity == 0)} OR (|Boy Bands/Their Solo Acts| AND |Nickelodeon Records| AND |Big Time Rush/Stephen Glickman| AND |Live Action Sitcoms|))"
   },
   {
-    "region": "Round 1",
     "name": "Top Of The List",
     "category": [
       "Gustavo Rocque"
@@ -3567,7 +3131,6 @@
   },
   {
     "name": "Retroland Rocquefeller",
-    "region": "Losers Round 1",
     "category": [
       "Gustavo Rocque"
     ],
@@ -3575,7 +3138,6 @@
   },
   {
     "name": "Season Finale",
-    "region": "Losers Round 1",
     "category": [
       "Gustavo Rocque"
     ],
@@ -3583,7 +3145,6 @@
   },
   {
     "name": "EdRec Megamix",
-    "region": "Pre-Bracket",
     "category": [
       "Club Bangers"
     ],
@@ -3591,7 +3152,6 @@
   },
   {
     "name": "The Titular Club Banger",
-    "region": "Pre-Bracket",
     "category": [
       "Club Bangers"
     ],
@@ -3599,7 +3159,6 @@
   },
   {
     "name": "Born To Be A Loser",
-    "region": "Round 1",
     "category": [
       "Club Bangers"
     ],
@@ -3607,7 +3166,6 @@
   },
   {
     "name": "Caoutchouc",
-    "region": "Losers Round 1",
     "category": [
       "Club Bangers"
     ],
@@ -3615,14 +3173,12 @@
   },
   {
     "name": "FLATATA",
-    "region": "Losers Round 1",
     "category": [
       "Club Bangers"
     ],
     "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Fatman Scoop|))"
   },
   {
-    "region": "Remix Week",
     "name": "Return of the Signacut",
     "category": [
       "Club Bangers"
@@ -3630,7 +3186,6 @@
     "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |French Touch| AND |Turntablism| AND |Fatman Scoop| AND |Big Beat| AND |Gigi D'Agostino|))"
   },
   {
-    "region": "Remix Week",
     "name": "The OFFICIAL Club Banger",
     "category": [
       "Club Bangers"
@@ -3638,7 +3193,6 @@
     "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Ed Banger Records| AND |Gigi D'Agostino| AND |Fatman Scoop|))"
   },
   {
-    "region": "Remix Week",
     "name": "Gigi Race OST - Ricky Rides Again",
     "category": [
       "Scott the Woz",
@@ -3648,14 +3202,12 @@
   },
   {
     "name": "Battlefield",
-    "region": "Pre-Bracket",
     "category": [
       "Misc"
     ],
     "requires": []
   },
   {
-    "region": "Round 1",
     "name": "BRACKET: Megamix",
     "category": [
       "Misc"
@@ -3664,7 +3216,6 @@
   },
   {
     "name": "Breakout (Elevator Mix)",
-    "region": "Round 1",
     "category": [
       "Scott the Woz"
     ],
@@ -3672,7 +3223,6 @@
   },
   {
     "name": "jareds escape (someone stop him)",
-    "region": "Remix Week",
     "category": [
       "Scott the Woz"
     ],
@@ -3680,7 +3230,6 @@
   },
   {
     "name": "holy fuck scott the woz",
-    "region": "Remix Week",
     "category": [
       "Scott the Woz"
     ],
@@ -3688,7 +3237,6 @@
   },
   {
     "name": "Electric Tubes",
-    "region": "Losers Round 1",
     "category": [
       "Susie Haltmann"
     ],
@@ -3696,7 +3244,6 @@
   },
   {
     "name": "Right Time, Right Place",
-    "region": "Losers Round 1",
     "category": [
       "Susie Haltmann"
     ],
@@ -3704,7 +3251,6 @@
   },
   {
     "name": "What Dads Are Made For!",
-    "region": "Pre-Bracket",
     "category": [
       "Dexter's Dad"
     ],
@@ -3712,7 +3258,6 @@
   },
   {
     "name": "BRACKET: Winners Round 2",
-    "region": "Winners Round 2",
     "category": [
       "Misc"
     ],
@@ -3720,7 +3265,6 @@
   },
   {
     "name": "BRACKET: Losers Round 1",
-    "region": "Losers Round 1",
     "category": [
       "Misc"
     ],
@@ -3728,7 +3272,6 @@
   },
   {
     "name": "Otherworldly Feline 2: A Tale of Two Kitties",
-    "region": "Remix Week",
     "category": [
       "Misc"
     ],
@@ -3736,14 +3279,12 @@
   },
   {
     "name": "A Funky Return To The Afterlife",
-    "region": "Remix Week",
     "category": [
       "Misc"
     ],
     "requires": []
   },
   {
-    "region": "Losers Round 2",
     "name": "BRACKET: Losers Round 2",
     "category": [
       "Misc"
@@ -3752,7 +3293,6 @@
   },
   {
     "name": "Desperate Love",
-    "region": "Losers Round 2",
     "category": [
       "Hot Ones",
       "gSports"
@@ -3761,7 +3301,6 @@
   },
   {
     "name": "ANGRY FARTS",
-    "region": "Losers Round 2",
     "category": [
       "Lil Darkie",
       "Playing With Power!"
@@ -3770,7 +3309,6 @@
   },
   {
     "name": "Chitlin B. Chitlins",
-    "region": "Losers Round 2",
     "category": [
       "MTT! Tour",
       "gSports"
@@ -3779,7 +3317,6 @@
   },
   {
     "name": "Kick Back With The Mack",
-    "region": "Losers Round 2",
     "category": [
       "Charles “All-Star” Barkley"
     ],
@@ -3787,7 +3324,6 @@
   },
   {
     "name": "Naughty List",
-    "region": "Losers Round 2",
     "category": [
       "Tyler & The Grinch"
     ],
@@ -3795,7 +3331,6 @@
   },
   {
     "name": "Diamonds On My Mind",
-    "region": "Losers Round 2",
     "category": [
       "Tyler & The Grinch",
       "Charles “All-Star” Barkley"
@@ -3804,7 +3339,6 @@
   },
   {
     "name": "PUMPITUP",
-    "region": "Losers Round 2",
     "category": [
       "Tyler & The Grinch",
       "Charles “All-Star” Barkley"
@@ -3812,7 +3346,6 @@
     "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Quad City DJs/Space Jam Artists| AND |Sports/Training Montages| AND |Gnarls Barkley/Its Members| AND (|90s Hip-Hop/Rap| OR |Illumination|)))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Mercy Halation: Legacy",
     "category": [
       "Tyler & The Grinch",
@@ -3821,7 +3354,6 @@
     "requires": "|Tyler & The Grinch| AND |Charles “All-Star” Barkley| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tyler, the Creator/Collaborators| AND |Christmas/Winter/Snow/Ice| AND |Illumination| AND (|Quad City DJs/Space Jam Artists| OR |Sports/Training Montages|)))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Offensive Rebound",
     "category": [
       "Tyler & The Grinch",
@@ -3831,7 +3363,6 @@
   },
   {
     "name": "Bad money",
-    "region": "Losers Round 2",
     "category": [
       "Bad Girlz"
     ],
@@ -3839,7 +3370,6 @@
   },
   {
     "name": "Blood Runs Red",
-    "region": "Losers Round 2",
     "category": [
       "MAD/EON"
     ],
@@ -3847,7 +3377,6 @@
   },
   {
     "name": "persephone",
-    "region": "Losers Round 2",
     "category": [
       "Bad Girlz",
       "MAD/EON"
@@ -3856,7 +3385,6 @@
   },
   {
     "name": "LOBOTOMY",
-    "region": "Losers Round 2",
     "category": [
       "Bad Girlz",
       "MAD/EON"
@@ -3864,7 +3392,6 @@
     "requires": "|Bad Girlz| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Madeon/Collaborators| AND |Billie Eilish/Collaborators| AND |Ke$ha/Collaborators| AND |ARGs| AND |Partying|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Hugo Goes Gaga",
     "category": [
       "Bad Girlz",
@@ -3873,7 +3400,6 @@
     "requires": "|Bad Girlz| AND |MAD/EON| AND ({YamlCompare(Sourcesanity == 0)} OR (|Partying| AND |Ke$ha/Collaborators| AND |Madeon/Collaborators| AND |ARGs| AND |Money|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "REFRACTION OF HABIT",
     "category": [
       "Bad Girlz",
@@ -3883,14 +3409,12 @@
   },
   {
     "name": "Versace Panties",
-    "region": "Losers Round 2",
     "category": [
       "Rick Hentai"
     ],
     "requires": "|Rick Hentai| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Pre-2012 Internet Culture| AND |Rick Astley| AND |80s New Wave|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "CUT PRICK",
     "category": [
       "Club Bangers"
@@ -3898,7 +3422,6 @@
     "requires": "|Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|French Touch| AND |Big Beat| AND |Ed Banger Records|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "LOVEHYPE",
     "category": [
       "Rick Hentai",
@@ -3907,7 +3430,6 @@
     "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Pre-2012 Internet Culture| AND |Bait-And-Switch| AND (|S3RL| OR |Happy Hardcore|) AND |Gigi D'Agostino| AND |Fatman Scoop|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "blablablablablablablablablablablabla",
     "category": [
       "Rick Hentai",
@@ -3916,7 +3438,6 @@
     "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Rick Astley| AND |Sexual Themes| AND |80s New Wave| AND |Bait-And-Switch| AND |Pre-2012 Internet Culture| AND |Gigi D'Agostino| AND |Fatman Scoop| AND |Ed Banger Records| AND |Big Beat| AND |French Touch|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Club Bangers Are Playing At My House",
     "category": [
       "Rick Hentai",
@@ -3925,7 +3446,6 @@
     "requires": "|Rick Hentai| AND |Club Bangers| AND ({YamlCompare(Sourcesanity == 0)} OR (|Sexual Themes| AND |Ed Banger Records|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "THE FLATTEST",
     "category": [
       "Rick Hentai",
@@ -3935,7 +3455,6 @@
   },
   {
     "name": "THE-SPECTER'S-MONOLITH",
-    "region": "Losers Round 2",
     "category": [
       "Detective Hat Kid"
     ],
@@ -3943,7 +3462,6 @@
   },
   {
     "name": "The Part Where She Shoots You",
-    "region": "Losers Round 2",
     "category": [
       "Head Chef Heavy"
     ],
@@ -3951,7 +3469,6 @@
   },
   {
     "name": "COLLAPSING TOWERS!!",
-    "region": "Losers Round 2",
     "category": [
       "Detective Hat Kid",
       "Head Chef Heavy"
@@ -3959,7 +3476,6 @@
     "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Mysteries/Detective Media| AND |Collectathons| AND |Valve Properties| AND |Valve Fan-Content| AND |Food/Culinary Arts| AND |Eastern European Culture| AND |Huey Lewis And The News|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Picture Perfect Dinner Party",
     "category": [
       "Detective Hat Kid",
@@ -3968,7 +3484,6 @@
     "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Collectathons| AND |Valve Properties| AND |Valve Fan-Content| AND |Huey Lewis And The News| AND |Food/Culinary Arts| AND |Eastern European Culture|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Hellbreaker",
     "category": [
       "Detective Hat Kid",
@@ -3977,7 +3492,6 @@
     "requires": "|Detective Hat Kid| AND |Head Chef Heavy| AND ({YamlCompare(Sourcesanity == 0)} OR (|Gears for Breakfast/Indie Platformers| AND |Eastern European Culture| AND |First Person Shooters/Class Based Shooters| AND |Valve Properties| AND (|Mysteries/Detective Media| OR |Valve Fan-Content|) AND (|Puzzles| OR |Guns|)))"
   },
   {
-    "region": "Losers Round 2",
     "name": "PSYCHOLOGICAL WARFARE",
     "category": [
       "Detective Hat Kid",
@@ -3987,14 +3501,12 @@
   },
   {
     "name": "Ain't Stressin' (Options)",
-    "region": "Losers Round 2",
     "category": [
       "Scott the Woz"
     ],
     "requires": "|Scott the Woz|"
   },
   {
-    "region": "Losers Round 2",
     "name": "Battle at the Weekyard Hotel!",
     "category": [
       "Scott the Woz"
@@ -4003,14 +3515,12 @@
   },
   {
     "name": "CactusTeam - Non-Copyright-Sounds | Progressive House | MWM",
-    "region": "Losers Round 2",
     "category": [
       "gSports"
     ],
     "requires": "|gSports| AND ({YamlCompare(Sourcesanity == 0)} OR (|Streamers/Streaming/Streamer Background Music|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Wasteland Downpour",
     "category": [
       "Cadence"
@@ -4018,7 +3528,6 @@
     "requires": "|Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Roguelikes| AND |Rhythm Games| AND |Dungeon Crawlers|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Budget Cuts",
     "category": [
       "gSports",
@@ -4027,7 +3536,6 @@
     "requires": "|gSports| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Streamers/Streaming/Streamer Background Music| AND |Advertisements/GEICO Ads| AND |Rhythm Games| AND |Vehicles|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "The Call of the Conga",
     "category": [
       "gSports",
@@ -4036,7 +3544,6 @@
     "requires": "|gSports| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Twitch Games/eSports Games| AND |Danny Baranowsky| AND |Rhythm Games| AND |Advertisements/GEICO Ads| AND |Dungeon Crawlers| AND |Vehicles|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "hyper_speed",
     "category": [
       "gSports",
@@ -4045,7 +3552,6 @@
     "requires": "|gSports| AND |Cadence| AND ({YamlCompare(Sourcesanity == 0)} OR (|Roguelikes| AND |Racing Games| AND |Dungeon Crawlers| AND |Advertisements/GEICO Ads| AND |Twitch Games/eSports Games| AND |Vehicles| AND |Rhythm Games| AND |Streamers/Streaming/Streamer Background Music|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Pandering to the Chat",
     "category": [
       "gSports",
@@ -4055,14 +3561,12 @@
   },
   {
     "name": "ナイトヴェールへようこそ",
-    "region": "Losers Round 2",
     "category": [
       "Ruler of Everything"
     ],
     "requires": "|Ruler of Everything| AND ({YamlCompare(Sourcesanity == 0)} OR (|Tally Hall/Its Members| AND |Time| AND |Claymation/Stopmotion Media|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Neil's Rhapsody",
     "category": [
       "Neil Cipher"
@@ -4070,7 +3574,6 @@
     "requires": "|Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Travel Back in Time With Me",
     "category": [
       "Ruler of Everything",
@@ -4079,7 +3582,6 @@
     "requires": "|Ruler of Everything| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Tally Hall/Its Members| AND |Claymation/Stopmotion Media|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Achilles",
     "category": [
       "Ruler of Everything",
@@ -4088,7 +3590,6 @@
     "requires": "|Ruler of Everything| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Tally Hall/Its Members| AND |Time| AND |Royalty| AND |Claymation/Stopmotion Media|))"
   },
   {
-    "region": "Losers Round 2",
     "name": "Killing Time",
     "category": [
       "Ruler of Everything",
@@ -4097,7 +3598,6 @@
     "requires": "|Ruler of Everything| AND |Neil Cipher| AND ({YamlCompare(Sourcesanity == 0)} OR (|Neil Cicierega| AND |Sampled by Neil Cicierega| AND |Disney Channel/Disney XD| AND |Tally Hall/Its Members| AND |Royalty| AND |Claymation/Stopmotion Media|)"
   },
   {
-    "region": "Losers Round 2",
     "name": "Take Back The Hall",
     "category": [
       "Ruler of Everything",
@@ -4583,7 +4083,6 @@
   },
   {
     "name": "Debris Jamboree",
-    "region": "Losers Round 2",
     "category": [
       "Netherrack Nightmares"
     ],
@@ -4591,7 +4090,6 @@
   },
   {
     "name": "Good Vibrations",
-    "region": "Losers Round 2",
     "category": [
       "Snailiens"
     ],
@@ -4599,7 +4097,6 @@
   },
   {
     "name": "Glowsquid Galaxy",
-    "region": "Losers Round 2",
     "category": [
       "Netherrack Nightmares",
       "Snailiens"
@@ -4608,7 +4105,6 @@
   },
   {
     "name": "nn_planet024",
-    "region": "Losers Round 2",
     "category": [
       "Netherrack Nightmares",
       "Snailiens"
@@ -4617,7 +4113,6 @@
   },
   {
     "name": "Snails on Venus",
-    "region": "Losers Round 2",
     "category": [
       "Netherrack Nightmares",
       "Snailiens"
@@ -4626,7 +4121,6 @@
   },
   {
     "name": "We Are The Universe",
-    "region": "Losers Round 2",
     "category": [
       "Netherrack Nightmares",
       "Snailiens"
@@ -4635,7 +4129,6 @@
   },
   {
     "name": "Blood in the Water",
-    "region": "Losers Round 2",
     "category": [
       "Black Mamba Farquaad"
     ],
@@ -4643,7 +4136,6 @@
   },
   {
     "name": "YOUGOTTHE!!",
-    "region": "Losers Round 2",
     "category": [
       "River City Girls"
     ],
@@ -4651,7 +4143,6 @@
   },
   {
     "name": "Sing Your Heart Out",
-    "region": "Losers Round 2",
     "category": [
       "Black Mamba Farquaad",
       "River City Girls"
@@ -4660,7 +4151,6 @@
   },
   {
     "name": "Blind Obsession",
-    "region": "Losers Round 2",
     "category": [
       "Black Mamba Farquaad",
       "River City Girls"
@@ -4669,7 +4159,6 @@
   },
   {
     "name": "Toxic Relation-ship",
-    "region": "Losers Round 2",
     "category": [
       "Black Mamba Farquaad",
       "River City Girls"
@@ -4678,7 +4167,6 @@
   },
   {
     "name": "Final Right to Fight",
-    "region": "Losers Round 2",
     "category": [
       "Black Mamba Farquaad",
       "River City Girls"
@@ -4687,7 +4175,6 @@
   },
   {
     "name": "Crowned Convulsions",
-    "region": "Pre-Bracket",
     "category": [
       "Ruler of Everything",
       "Forum Freakshow"
@@ -4696,7 +4183,6 @@
   },
   {
     "name": "Tama City Anthem",
-    "region": "Losers Round 1",
     "category": [
       "Lofi Girl",
       "River City Girls"
@@ -4705,7 +4191,6 @@
   },
   {
     "name": "Don't Fly Too Far",
-    "region": "Losers Round 1",
     "category": [
       "Painful Dreamers",
       "Elliana"
@@ -4714,7 +4199,6 @@
   },
   {
     "name": "We Can Do It!",
-    "region": "Round 1",
     "category": [
       "Scatman & Hatman"
     ],
@@ -4722,7 +4206,6 @@
   },
   {
     "name": "MEET THE MONSTERS!",
-    "region": "Losers Round 2",
     "category": [
       "Heaven Ascension DIO",
       "Reanimatedd",
@@ -4732,7 +4215,6 @@
   },
   {
     "name": "Party All Christmas",
-    "region": "Losers Round 2",
     "category": [
       "Gustavo Rocque"
     ],
@@ -4740,7 +4222,6 @@
   },
   {
     "name": "Love, Sex, & Money",
-    "region": "Losers Round 2",
     "category": [
       "Rick Hentai",
       "Bad Girlz"
@@ -4749,7 +4230,6 @@
   },
   {
     "name": "Goin' Down",
-    "region": "Losers Round 2",
     "category": [
       "Rick Hentai",
       "Bad Girlz"
@@ -4758,7 +4238,6 @@
   },
   {
     "name": "Sugar On My Cum",
-    "region": "Losers Round 2",
     "category": [
       "Rick Hentai",
       "Tyler & The Grinch",
