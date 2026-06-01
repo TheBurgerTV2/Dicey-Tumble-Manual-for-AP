@@ -29,6 +29,7 @@
     "name": "Jigglypuff",
     "category": [
       "Character"
+      "Dice 1 Character"
     ],
     "progression": true
   },
@@ -37,22 +38,25 @@
     "name": "Coldsteel The Hedgeheg",
     "category": [
       "Character"
+      "Dice 1 Character"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "The Three Peters",
+    "name": "The Three (Four) Peters",
     "category": [
       "Character"
+      "Dice 1 Character"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Tim Maia &「O DESCOBRIDOR DOS SETE MARES」",
+    "name": "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
     "category": [
       "Character"
+      "Dice 1 Character"
     ],
     "progression": true
   },
@@ -61,6 +65,7 @@
     "name": "The Boss",
     "category": [
       "Character"
+      "Dice 1 Character"
     ],
     "progression": true
   },
@@ -78,6 +83,7 @@
     "name": "Lain Iwakura",
     "category": [
       "Character"
+      "Dice 2 Character"
     ],
     "progression": true
   },
@@ -86,6 +92,7 @@
     "name": "Elma",
     "category": [
       "Character"
+      "Dice 2 Character"
     ],
     "progression": true
   },
@@ -94,6 +101,7 @@
     "name": "Chester Chomper",
     "category": [
       "Character"
+      "Dice 2 Character"
     ],
     "progression": true
   },
@@ -102,6 +110,7 @@
     "name": "The Backside Rider",
     "category": [
       "Character"
+      "Dice 2 Character"
     ],
     "progression": true
   },
@@ -110,6 +119,7 @@
     "name": "Bubsy The Bobcat",
     "category": [
       "Character"
+      "Dice 2 Character"
     ],
     "progression": true
   },
@@ -127,6 +137,7 @@
     "name": "VineSpoops",
     "category": [
       "Character"
+      "Dice 3 Character"
     ],
     "progression": true
   },
@@ -135,6 +146,7 @@
     "name": "Mother 3",
     "category": [
       "Character"
+      "Dice 3 Character"
     ],
     "progression": true
   },
@@ -143,6 +155,7 @@
     "name": "Barbie",
     "category": [
       "Character"
+      "Dice 3 Character"
     ],
     "progression": true
   },
@@ -151,6 +164,7 @@
     "name": "Heartsick Blades",
     "category": [
       "Character"
+      "Dice 3 Character"
     ],
     "progression": true
   },
@@ -168,6 +182,7 @@
     "name": "... in my katamari",
     "category": [
       "Character"
+      "Dice 4 Character"
     ],
     "progression": true
   },
@@ -176,6 +191,7 @@
     "name": "Wiz & Boomstick",
     "category": [
       "Character"
+      "Dice 4 Character"
     ],
     "progression": true
   },
@@ -193,6 +209,7 @@
     "name": "Loon",
     "category": [
       "Character"
+      "Dice 5 Character"
     ],
     "progression": true
   },
@@ -201,6 +218,7 @@
     "name": "Moxie",
     "category": [
       "Character"
+      "Dice 5 Character"
     ],
     "progression": true
   },
@@ -209,6 +227,7 @@
     "name": "Yerrr",
     "category": [
       "Character"
+      "Dice 5 Character"
     ],
     "progression": true
   },
@@ -235,6 +254,7 @@
     "name": "RNGesus",
     "category": [
       "Bonus Character"
+      "Dice 0 Character"
     ],
     "progression": true
   },
@@ -243,6 +263,7 @@
     "name": "Big Man",
     "category": [
       "Bonus Character"
+      "Dice 0 Character"
     ],
     "progression": true
   },
@@ -251,6 +272,7 @@
     "name": "Pac-Man",
     "category": [
       "Bonus Character"
+      "Dice 0 Character"
     ],
     "progression": true
   },
@@ -259,6 +281,7 @@
     "name": "Medic",
     "category": [
       "Bonus Character"
+      "Dice 0 Character"
     ],
     "progression": true
   },
@@ -267,6 +290,7 @@
     "name": "Morbel VS Capclown",
     "category": [
       "Bonus Character"
+      "Dice 0 Character"
     ],
     "progression": true
   },
