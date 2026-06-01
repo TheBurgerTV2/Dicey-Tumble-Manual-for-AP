@@ -9,110 +9,98 @@
   },
   {
     "name": "UPLEFTDOWNDOWNUPRIGHTDOWNDOWNDOWN",
-    "region": "Dice 1",
     "category": [
       "DJ Sray"
     ],
-    "requires": "|DJ Sray|"
+    "requires": "|DJ Sray| AND |Dice 1|"
   },
   {
     "name": "Can't Outrun [SPEED OF STEEL]",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "Coldsteel The Hedgeheg"
     ],
-    "requires": "|DJ Sray| AND |Coldsteel The Hedgeheg|"
+    "requires": "|DJ Sray| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
     "name": "Heaven's Most RANDOM Defenders",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "The Three (Four) Peters"
     ],
-    "requires": "|Neil Cipher| AND |The Three (Four) Peters|"
+    "requires": "|Neil Cipher| AND |The Three (Four) Peters| AND |Dice 1|"
   },
   {
     "name": "pov: you didn't bring ketchup for mario's pizza pie.",
-    "region": "Dice 1",
     "category": [
       "DJ Sray"
     ],
-    "requires": "|DJ Sray|"
+    "requires": "|DJ Sray| AND |Dice 1|"
   },
   {
     "name": "OCTOBER FIRST (Dicey Mix)",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "The Three (Four) Peters",
       "Joy",
       "Medic"
     ],
-    "requires": "|DJ Sray| AND |The Three (Four) Peters| AND |Joy| AND |Medic|"
+    "requires": "|DJ Sray| AND |The Three (Four) Peters| AND |Joy| AND |Medic| AND (|Dice 1| OR |Dice 0|)"
   },
   {
     "name": "Garry's Conga",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "Chester Chomper"
     ],
-    "requires": "|DJ Sray| AND |Chester Chomper|"
+    "requires": "|DJ Sray| AND |Chester Chomper| AND (|Dice 1| OR |Dice 2|)"
   },
   {
     "name": "BREAKDOWN BASE",
-    "region": "Dice 1",
     "category": [
       "DJ Sray"
     ],
-    "requires": "|DJ Sray|"
+    "requires": "|DJ Sray| AND |Dice 1|"
   },
   {
     "name": "I WANNA BE THE DJ",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "Lain Iwakura"
     ],
-    "requires": "|DJ Sray| AND |Lain Iwakura|"
+    "requires": "|DJ Sray| AND |Lain Iwakura| AND (|Dice 1| OR |Dice 2|)"
   },
   {
     "name": "☆ EXPERT TIMING ☆",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "Po"
     ],
-    "requires": "|DJ Sray| AND |Po|"
+    "requires": "|DJ Sray| AND |Po| AND (|Dice 1| OR |Dice 3|)"
   },
   {
     "name": "THE OLD WORLD BURNS, LAMENT",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "Elma",
       "Blood Sugar"
     ],
-    "requires": "|DJ Sray| AND |Elma| AND |Blood Sugar|"
+    "requires": "|DJ Sray| AND |Elma| AND |Blood Sugar| AND (|Dice 1| OR |Dice 2| OR |Dice 5|)"
   },
   {
     "name": "Bloomin' Death",
-    "region": "Dice 1",
     "category": [
       "DJ Sray",
       "Wiz & Boomstick"
     ],
-    "requires": "|DJ Sray| AND |Wiz & Boomstick|"
+    "requires": "|DJ Sray| AND |Wiz & Boomstick| AND (|Dice 1| OR |Dice 4)"
   },
   {
     "name": "don't rest all day",
-    "region": "Dice 1",
     "category": [
       "Jigglypuff"
     ],
-    "requires": "|Jigglypuff|"
+    "requires": "|Jigglypuff| AND |Dice 1|"
   },
   {
     "name": "Nostalgia Invisível",
@@ -121,7 +109,7 @@
       "Jigglypuff",
       "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
     ],
-    "requires": "|Jigglypuff| AND |Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」|"
+    "requires": "|Jigglypuff| AND |Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
   },
   {
     "name": "A Good Night's Sleep Is What I Like",
@@ -130,69 +118,62 @@
       "Jigglypuff",
       "The Backside Rider"
     ],
-    "requires": "|Jigglypuff| AND |The Backside Rider|"
+    "requires": "|Jigglypuff| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "region": "Dice 1",
     "name": "i hear you still, don't forget me.",
     "category": [
       "Jigglypuff",
       "Carl Weezer ft. Phinnie Joe Armstrong"
     ],
-    "requires": "|Jigglypuff| AND |Carl Weezer ft. Phinnie Joe Armstrong|"
+    "requires": "|Jigglypuff| AND |Carl Weezer ft. Phinnie Joe Armstrong| AND (|Dice 1| OR |Dice 2|)"
   },
   {
-    "region": "Dice 1",
     "name": "Singing Close To My Chosen One",
     "category": [
       "Jigglypuff"
     ],
-    "requires": "|Jigglypuff|"
+    "requires": "|Jigglypuff| AND |Dice 1|"
   },
   {
     "name": "She Got That Dog In Her",
-    "region": "Dice 1",
     "category": [
       "Jigglypuff",
       "Moxie"
     ],
-    "requires": "|Jigglypuff| AND |Moxie|"
+    "requires": "|Jigglypuff| AND |Moxie| AND (|Dice 1| OR |Dice 5|)"
   },
   {
     "name": "wisp bed",
-    "region": "Dice 1",
     "category": [
       "Jigglypuff",
       "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg|"
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
     "name": "Ballad Of A NIGHTMARE",
-    "region": "Dice 1",
     "category": [
       "Jigglypuff",
       "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg|"
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
     "name": "Champion's Castle: Twinkle In The Sky",
-    "region": "Dice 1",
     "category": [
       "Jigglypuff",
       "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg|"
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
     "name": "EXCESS OF FALSE SERPENTS",
-    "region": "Remix Week",
     "category": [
       "Jigglypuff",
       "Coldsteel The Hedgeheg"
     ],
-    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg|"
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
   },
   {
     "name": "We'll Do It All Again",
