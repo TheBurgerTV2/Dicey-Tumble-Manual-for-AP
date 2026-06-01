@@ -8,9 +8,9 @@ import re
 # Victory Rule
 def victory_rule(world: World):
     """Calculates Victory"""
-    comp = world.options.goal_characters.value
+    comp = world.options.goal_requirement.value
 
-    logic = f"|@Character:{comp}|"
+    logic = f"|@Goal MacGuffin:{comp}|"
 
     return logic
 

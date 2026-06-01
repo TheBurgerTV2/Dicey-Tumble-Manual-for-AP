@@ -73,16 +73,26 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 
     # Starting Items
     num_starting_characters = world.options.starting_characters.value
-    starting_characters = []
-    starting_item_names = [name for name, i in world.item_name_to_item.items() if "Character" in i.get("category", [])]
+    num_starting_dice = world.options.starting_dice.value
 
-    for _ in range(num_starting_characters):
-        chosen_item = world.random.choice([i for i in item_pool if i.name in starting_item_names and i.player == player])
-        multiworld.push_precollected(chosen_item)
-        item_pool.remove(chosen_item)
-        starting_characters.append(chosen_item)
+    # Dice
+    dice_item_names = [name for name, i in world.item_name_to_item.items() if "Dice" in i.get("category", [])]
+    starting_dice = world.random.sample(dice_item_names, num_starting_dice)
+    starting_dice_items = [i for i in item_pool if i.name in starting_dice and i.player == player]
+    for item in starting_dice_items:
+        multiworld.push_precollected(item)
+        item_pool.remove(item)
 
-
+    # Characters
+    for dice in starting_dice:
+        character_items_for_this_dice = [name for name, i in world.item_name_to_item.items() if f"{dice} Character" in i.get("category", [])]
+        if len(character_items_for_this_dice) < num_starting_characters: # Failsafe for Dice 6
+            num_starting_characters = len(character_items_for_this_dice)
+        starting_characters = world.random.sample(character_items_for_this_dice, num_starting_characters)
+        starting_characters_items = [i for i in item_pool if i.name in starting_characters and i.player == player]
+        for item in starting_characters_items:
+            multiworld.push_precollected(item)
+            item_pool.remove(item)
 
     # Add source items to starting inventory
     # sourcesanity = world.options.Sourcesanity.value

@@ -19,7 +19,7 @@
     "count": 1,
     "name": "DJ Sray",
     "category": [
-      "Character"
+      "Character",
       "Dice 1 Character"
     ],
     "progression": true
@@ -28,7 +28,7 @@
     "count": 1,
     "name": "Jigglypuff",
     "category": [
-      "Character"
+      "Character",
       "Dice 1 Character"
     ],
     "progression": true
@@ -37,7 +37,7 @@
     "count": 1,
     "name": "Coldsteel The Hedgeheg",
     "category": [
-      "Character"
+      "Character",
       "Dice 1 Character"
     ],
     "progression": true
@@ -46,7 +46,7 @@
     "count": 1,
     "name": "The Three (Four) Peters",
     "category": [
-      "Character"
+      "Character",
       "Dice 1 Character"
     ],
     "progression": true
@@ -55,7 +55,7 @@
     "count": 1,
     "name": "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」",
     "category": [
-      "Character"
+      "Character",
       "Dice 1 Character"
     ],
     "progression": true
@@ -64,7 +64,7 @@
     "count": 1,
     "name": "The Boss",
     "category": [
-      "Character"
+      "Character",
       "Dice 1 Character"
     ],
     "progression": true
@@ -73,7 +73,7 @@
     "count": 1,
     "name": "Carl Weezer ft. Phinnie Joe Armstrong",
     "category": [
-      "Character"
+      "Character",
       "Dice 2 Character"
     ],
     "progression": true
@@ -82,7 +82,7 @@
     "count": 1,
     "name": "Lain Iwakura",
     "category": [
-      "Character"
+      "Character",
       "Dice 2 Character"
     ],
     "progression": true
@@ -91,7 +91,7 @@
     "count": 1,
     "name": "Elma",
     "category": [
-      "Character"
+      "Character",
       "Dice 2 Character"
     ],
     "progression": true
@@ -100,7 +100,7 @@
     "count": 1,
     "name": "Chester Chomper",
     "category": [
-      "Character"
+      "Character",
       "Dice 2 Character"
     ],
     "progression": true
@@ -109,7 +109,7 @@
     "count": 1,
     "name": "The Backside Rider",
     "category": [
-      "Character"
+      "Character",
       "Dice 2 Character"
     ],
     "progression": true
@@ -118,7 +118,7 @@
     "count": 1,
     "name": "Bubsy The Bobcat",
     "category": [
-      "Character"
+      "Character",
       "Dice 2 Character"
     ],
     "progression": true
@@ -127,7 +127,7 @@
     "count": 1,
     "name": "Po",
     "category": [
-      "Character"
+      "Character",
       "Dice 3 Character"
     ],
     "progression": true
@@ -136,7 +136,7 @@
     "count": 1,
     "name": "VineSpoops",
     "category": [
-      "Character"
+      "Character",
       "Dice 3 Character"
     ],
     "progression": true
@@ -145,7 +145,7 @@
     "count": 1,
     "name": "Mother 3",
     "category": [
-      "Character"
+      "Character",
       "Dice 3 Character"
     ],
     "progression": true
@@ -154,7 +154,7 @@
     "count": 1,
     "name": "Barbie",
     "category": [
-      "Character"
+      "Character",
       "Dice 3 Character"
     ],
     "progression": true
@@ -163,7 +163,7 @@
     "count": 1,
     "name": "Heartsick Blades",
     "category": [
-      "Character"
+      "Character",
       "Dice 3 Character"
     ],
     "progression": true
@@ -172,7 +172,7 @@
     "count": 1,
     "name": "Robot Rock-U",
     "category": [
-      "Character"
+      "Character",
       "Dice 4 Character"
     ],
     "progression": true
@@ -181,7 +181,7 @@
     "count": 1,
     "name": "... in my katamari",
     "category": [
-      "Character"
+      "Character",
       "Dice 4 Character"
     ],
     "progression": true
@@ -190,7 +190,7 @@
     "count": 1,
     "name": "Wiz & Boomstick",
     "category": [
-      "Character"
+      "Character",
       "Dice 4 Character"
     ],
     "progression": true
@@ -199,7 +199,7 @@
     "count": 1,
     "name": "Blood Sugar",
     "category": [
-      "Character"
+      "Character",
       "Dice 5 Character"
     ],
     "progression": true
@@ -208,7 +208,7 @@
     "count": 1,
     "name": "Loon",
     "category": [
-      "Character"
+      "Character",
       "Dice 5 Character"
     ],
     "progression": true
@@ -217,7 +217,7 @@
     "count": 1,
     "name": "Moxie",
     "category": [
-      "Character"
+      "Character",
       "Dice 5 Character"
     ],
     "progression": true
@@ -226,7 +226,7 @@
     "count": 1,
     "name": "Yerrr",
     "category": [
-      "Character"
+      "Character",
       "Dice 5 Character"
     ],
     "progression": true
@@ -235,7 +235,7 @@
     "count": 1,
     "name": "The Big Bad Wolf",
     "category": [
-      "Character"
+      "Character",
       "Dice 6 Character"
     ],
     "progression": true
@@ -244,7 +244,7 @@
     "count": 1,
     "name": "Joy",
     "category": [
-      "Bonus Character"
+      "Bonus Character",
       "Dice 0 Character"
     ],
     "progression": true
@@ -253,7 +253,7 @@
     "count": 1,
     "name": "RNGesus",
     "category": [
-      "Bonus Character"
+      "Bonus Character",
       "Dice 0 Character"
     ],
     "progression": true
@@ -262,7 +262,7 @@
     "count": 1,
     "name": "Big Man",
     "category": [
-      "Bonus Character"
+      "Bonus Character",
       "Dice 0 Character"
     ],
     "progression": true
@@ -271,7 +271,7 @@
     "count": 1,
     "name": "Pac-Man",
     "category": [
-      "Bonus Character"
+      "Bonus Character",
       "Dice 0 Character"
     ],
     "progression": true
@@ -280,7 +280,7 @@
     "count": 1,
     "name": "Medic",
     "category": [
-      "Bonus Character"
+      "Bonus Character",
       "Dice 0 Character"
     ],
     "progression": true
@@ -289,7 +289,7 @@
     "count": 1,
     "name": "Morbel VS Capclown",
     "category": [
-      "Bonus Character"
+      "Bonus Character",
       "Dice 0 Character"
     ],
     "progression": true
@@ -357,12 +357,6 @@
       "Song Skips"
     ],
     "useful": true
-  },
-  {
-    "count": "1",
-    "name": "Filler",
-    "category": ["Filler"],
-    "Filler": true
   },
   {
     "count": "13",
