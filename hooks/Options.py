@@ -26,13 +26,15 @@ from typing import Type, Any
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
 class Starting_Dice(Range):
-    """Number of dice to randomly add to the starting inventory."""
+    """Number of Dice to randomly add to the starting inventory.
+    You need a Dice along with a character within that dice to have locations."""
     range_start = 1
     range_end = 6
     default = 2
 
 class Starting_Characters(Range):
-    """Number of characters to randomly add to the starting inventory."""
+    """Number of characters to randomly add to the starting inventory.
+    You will recieve characters within the Dice you are given via starting dice."""
     range_start = 1
     range_end = 6
     default = 2

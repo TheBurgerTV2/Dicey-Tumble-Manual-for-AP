@@ -879,7 +879,7 @@
     "requires": "|Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": " 	That's Not A Painting, That's An Adult Thing!",
+    "name": "That's Not A Painting, That's An Adult Thing!",
     "category": [
       "Bubsy The Bobcat",
       "Po"
@@ -1019,7 +1019,7 @@
   {
     "name": "Graveyard Bustin'",
     "category": [
-      "VineSpoops"
+      "VineSpoops",
       "Heartsick Blades"
     ],
     "requires": "|VineSpoops| AND |Heartsick Blades| AND |Dice 3|"
