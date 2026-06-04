@@ -567,6 +567,7 @@
     "name": "No ONE in the world for me.",
     "category": [
       "Carl Weezer ft. Phinnie Joe Armstrong"
+      "Robot Rock-U"
     ],
     "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Robot Rock-U| AND (|Dice 2| OR |Dice 4|)"
   },
@@ -721,7 +722,7 @@
     "requires": "|Elma| AND |The Backside Rider| AND |Dice 2|"
   },
   {
-    "name": "THIS DESERT IS NOT FOR DREAMERS ANYMORE",
+    "name": "FLY AWAY, INVADERS! FAR AWAY...",
     "category": [
       "Elma",
       "Robot Rock-U"
@@ -805,7 +806,7 @@
     "requires": "|Chester Chomper| AND |Dice 2|"
   },
   {
-    "name": "deadbeat",
+    "name": "HOW TO SOLVE WORLD HUNGER",
     "category": [
       "Chester Chomper",
       "Blood Sugar"
