@@ -566,7 +566,7 @@
   {
     "name": "No ONE in the world for me.",
     "category": [
-      "Carl Weezer ft. Phinnie Joe Armstrong"
+      "Carl Weezer ft. Phinnie Joe Armstrong",
       "Robot Rock-U"
     ],
     "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Robot Rock-U| AND (|Dice 2| OR |Dice 4|)"
