@@ -792,7 +792,7 @@
     "requires": "|Chester Chomper| AND |Bubsy The Bobcat| AND |Dice 2|"
   },
   {
-    "name": "Victory! Chester Chomper ",
+    "name": "Victory! Chester Chomper",
     "category": [
       "Chester Chomper"
     ],
@@ -1293,6 +1293,14 @@
     "requires": "|Loon| AND |Dice 5|"
   },
   {
+    "name": "Loonlabby",
+    "category": [
+      "Loon",
+      "Loon"
+    ],
+    "requires": "|Loon| AND |The Big Bad Wolf| AND (|Dice 5| OR Dice 6|)"
+  },
+  {
     "name": "Royalcore Bombcore",
     "category": [
       "Loon"
@@ -1456,7 +1464,7 @@
     "requires": "|RNGesus| AND |Dice 0|"
   },
   {
-    "name": "Hosts With The Most ",
+    "name": "Hosts With The Most",
     "category": [
       "RNGesus"
     ],
