@@ -1296,9 +1296,9 @@
     "name": "Loonlabby",
     "category": [
       "Loon",
-      "Loon"
+      "The Big Bad Wolf"
     ],
-    "requires": "|Loon| AND |The Big Bad Wolf| AND (|Dice 5| OR Dice 6|)"
+    "requires": "|Loon| AND |The Big Bad Wolf| AND (|Dice 5| OR |Dice 6|)"
   },
   {
     "name": "Royalcore Bombcore",

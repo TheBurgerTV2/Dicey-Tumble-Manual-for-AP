@@ -298,7 +298,8 @@
     "count": 1,
     "name": "Dice 1",
     "category": [
-      "Dice"
+      "Dice",
+      "Dice Face"
     ],
     "progression": true
   },
@@ -306,7 +307,8 @@
     "count": 1,
     "name": "Dice 2",
     "category": [
-      "Dice"
+      "Dice",
+      "Dice Face"
     ],
     "progression": true
   },
@@ -314,7 +316,8 @@
     "count": 1,
     "name": "Dice 3",
     "category": [
-      "Dice"
+      "Dice",
+      "Dice Face"
     ],
     "progression": true
   },
@@ -322,7 +325,8 @@
     "count": 1,
     "name": "Dice 4",
     "category": [
-      "Dice"
+      "Dice",
+      "Dice Face"
     ],
     "progression": true
   },
@@ -330,7 +334,8 @@
     "count": 1,
     "name": "Dice 5",
     "category": [
-      "Dice"
+      "Dice",
+      "Dice Face"
     ],
     "progression": true
   },
@@ -338,7 +343,8 @@
     "count": 1,
     "name": "Dice 6",
     "category": [
-      "Dice"
+      "Dice",
+      "Dice Face"
     ],
     "progression": true
   },
@@ -346,7 +352,8 @@
     "count": 1,
     "name": "Dice 0",
     "category": [
-      "Bonus Dice"
+      "Bonus Dice",
+      "Dice Face"
     ],
     "progression": true
   },
