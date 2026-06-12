@@ -502,7 +502,7 @@
       "The Boss",
       "Bubsy The Bobcat"
     ],
-    "requires": "|The Boss| AND |The Backside Rider| AND (|Dice 1| OR |Dice 2|)"
+    "requires": "|The Boss| AND |Bubsy The Bobcat| AND (|Dice 1| OR |Dice 2|)"
   },
   {
     "name": "Hampster Party",
@@ -1471,42 +1471,42 @@
     "requires": "|RNGesus| AND |Dice 0|"
   },
   {
-    "name": "LUCKY CATCH! [FIRST DIE TEASER]",
+    "name": "LUCKY CATCH!",
     "category": [
       "Misc"
     ],
     "requires": "|Dice 1|"
   },
   {
-    "name": "SIX MORE SIDES :the game: [SECOND DIE TEASER]",
+    "name": "SIX MORE SIDES :the game:",
     "category": [
       "Misc"
     ],
     "requires": "|Dice 2|"
   },
   {
-    "name": "[DICE 3 TEASER] bubcore",
+    "name": "bubcore",
     "category": [
       "Misc"
     ],
     "requires": "|Dice 3|"
   },
   {
-    "name": "[DICE 4 TEASER] picking through the cards, knowing what's nearby...",
+    "name": "picking through the cards, knowing what's nearby...",
     "category": [
       "Misc"
     ],
     "requires": "|Dice 4|"
   },
   {
-    "name": "[DICE 5 TEASER] water tumbling from the fountain...",
+    "name": "water tumbling from the fountain...",
     "category": [
       "Misc"
     ],
     "requires": "|Dice 5|"
   },
   {
-    "name": "[DICE 6 TEASER] Every Gamble's Wild Side",
+    "name": "Every Gamble's Wild Side",
     "category": [
       "Misc"
     ],
