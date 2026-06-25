@@ -545,7 +545,8 @@
   {
     "name": "Can't Control Me",
     "category": [
-      "Carl Weezer ft. Phinnie Joe Armstrong"
+      "Carl Weezer ft. Phinnie Joe Armstrong",
+      "Joy"
     ],
     "requires": "|Carl Weezer ft. Phinnie Joe Armstrong| AND |Joy| AND (|Dice 2| OR |Dice 0|)"
   },
