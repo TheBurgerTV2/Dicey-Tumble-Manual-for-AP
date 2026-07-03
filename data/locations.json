@@ -1512,5 +1512,12 @@
       "Misc"
     ],
     "requires": "|Dice 6|"
+  },
+  {
+    "name": "Aesop Funk",
+    "category": [
+      "Yerrr"
+    ],
+    "requires": "|Yerrr| AND |Dice 5|"
   }
 ]
