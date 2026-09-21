@@ -366,7 +366,7 @@
     "useful": true
   },
   {
-    "count": "9",
+    "count": "30",
     "name": "RNGesus' Blessing",
     "category": ["Filler"],
     "Filler": true
@@ -550,5 +550,20 @@
     "name": "When you smell FILLER in the vicinity #MorbiusSweep #GetThatFiller",
     "category": ["Filler"],
     "Filler": true
+  },
+  {
+    "count": "1",
+    "name": "loss",
+    "category": ["Filler"],
+    "Filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ethan McManus",
+    "category": [
+      "Character",
+      "Dice 3 Character"
+    ],
+    "progression": true
   }
 ]

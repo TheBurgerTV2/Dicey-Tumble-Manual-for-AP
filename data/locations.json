@@ -1387,7 +1387,7 @@
     "requires": "|The Big Bad Wolf| AND |Dice 6|"
   },
   {
-    "name": "Be Beautiful",
+    "name": "SLAUGHTERHOUSE",
     "category": [
       "The Big Bad Wolf"
     ],
@@ -1519,5 +1519,154 @@
       "Yerrr"
     ],
     "requires": "|Yerrr| AND |Dice 5|"
+  },
+  {
+    "name": "LUCKIER CATCH: ROLL THE DICE!",
+    "category": [
+      "Misc"
+    ],
+    "requires": "|@Character:6| AND |@Dice Face:3|"
+  },
+  {
+    "name": "Perdido Nas Alianças",
+    "category": [
+      "Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」"
+    ],
+    "requires": "|Tim Maia & 「O DESCOBRIDOR DOS SETE MARES」| AND |Dice 1|"
+  },
+  {
+    "name": "Aesop Funk",
+    "category": [
+      "Blood Sugar",
+      "The Boss"
+    ],
+    "requires": "|Blood Sugar| AND |The Boss| AND (|Dice 5| OR |Dice 1|)"
+  },
+  {
+    "name": "Luigi's “Hit”",
+    "category": [
+      "The Backside Rider"
+    ],
+    "requires": "|The Backside Rider| AND |Dice 2|"
+  },
+  {
+    "name": "Let Me Be A Girl!",
+    "category": [
+      "Barbie"
+    ],
+    "requires": "|Barbie| AND |Dice 3|"
+  },
+  {
+    "name": "2cheesy",
+    "category": [
+      "Chester Chomper"
+    ],
+    "requires": "|Chester Chomper| AND |Dice 2|"
+  },
+  {
+    "name": "Invaded By The Dark",
+    "category": [
+      "... in my katamari"
+    ],
+    "requires": "|... in my katamari| AND |Dice 4|"
+  },
+  {
+    "name": "DO THE IMPOSSIBLE.",
+    "category": [
+      "Elma",
+      "Wiz & Boomstick"
+    ],
+    "requires": "|Wiz & Boomstick| AND |Elma| AND (|Dice 4| OR |Dice 2|)"
+  },
+  {
+    "name": "Dreaming Under The Moon",
+    "category": [
+      "Moxie"
+    ],
+    "requires": "|Moxie| AND |Dice 5|"
+  },
+  {
+    "name": "HOUSEBLOWER [B3 Remix]",
+    "category": [
+      "The Big Bad Wolf"
+    ],
+    "requires": "|The Big Bad Wolf| AND |Dice 6|"
+  },
+  {
+    "name": "Champion's Castle: Island Park",
+    "category": [
+      "Jigglypuff",
+      "Coldsteel The Hedgeheg"
+    ],
+    "requires": "|Jigglypuff| AND |Coldsteel The Hedgeheg| AND |Dice 1|"
+  },
+  {
+    "name": "WOKE IT UP, BABY!",
+    "category": [
+      "Robot Rock-U",
+      "VineSpoops"
+    ],
+    "requires": "|Robot Rock-U| AND |VineSpoops| AND (|Dice 3| OR |Dice 4|)"
+  },
+  {
+    "name": "We've Found The KEY, Renegade.",
+    "category": [
+      "Elma"
+    ],
+    "requires": "|Elma| AND |Dice 2|"
+  },
+  {
+    "name": "Que Comece A Caçada",
+    "category": [
+      "The Big Bad Wolf",
+      "The Boss"
+    ],
+    "requires": "|The Big Bad Wolf| AND |The Boss| AND (|Dice 1| OR |Dice 6|)"
+  },
+  {
+    "name": "Swag Inside Me 2: Always Bet On Woody Theory",
+    "category": [
+      "The Big Bad Wolf"
+      "Bubsy The Bobcat"
+    ],
+    "requires": "|Bubsy The Bobcat| AND |The Big Bad Wolf| AND (|Dice 2| OR |Dice 6|)"
+  },
+  {
+    "name": "Your Honor, You're The Father.",
+    "category": [
+      "Ethan McManus"
+    ],
+    "requires": "|Ethan McManus| AND |Dice 3|"
+  },
+  {
+    "name": "Mark This Day In The History Books!",
+    "category": [
+      "Ethan McManus"
+    ],
+    "requires": "|Ethan McManus| AND |Dice 3|"
+  },
+  {
+    "name": "Born With A Halo",
+    "category": [
+      "Ethan McManus",
+      "Po"
+    ],
+    "requires": "|Ethan McManus| AND |Po| AND |Dice 3|"
+  },
+  {
+    "name": "John Pork's Gamer Food",
+    "category": [
+      "Ethan McManus",
+      "Chester Chomper"
+    ],
+    "requires": "|Ethan McManus| AND |Chester Chomper| AND (|Dice 2| OR |Dice 3|)"
+  },
+  {
+    "name": "HOLY CRAP, I'M AN XBOX!",
+    "category": [
+      "Ethan McManus",
+      "The Three (Four) Peters"
+    ],
+    "requires": "|Ethan McManus| AND |The Three (Four) Peters| AND (|Dice 1| OR |Dice 3|)"
   }
 ]
