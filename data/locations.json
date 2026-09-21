@@ -1626,7 +1626,7 @@
   {
     "name": "Swag Inside Me 2: Always Bet On Woody Theory",
     "category": [
-      "The Big Bad Wolf"
+      "The Big Bad Wolf",
       "Bubsy The Bobcat"
     ],
     "requires": "|Bubsy The Bobcat| AND |The Big Bad Wolf| AND (|Dice 2| OR |Dice 6|)"
