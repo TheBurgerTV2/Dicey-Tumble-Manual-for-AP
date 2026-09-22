@@ -44,14 +44,10 @@ class Goal_Requirement(Range):
     range_start = 50
     range_end = 100
     default = 75
-
-# class LocalFill(Range):
-    # """Sets an amount of filler to be local.
-    # Use if your friends hate sending loads of especially useless filler.
-    # Approximately 69 filler items are exempt from this setting."""
-    # range_start = 0
-    # range_end = 100
-    # default = 25
+    
+class EnableBacksideRider(Toggle):
+    """Enables The Backside Rider, disable if your group disallows sexual themes."""
+    default = False
 
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
@@ -59,7 +55,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["starting_characters"] = Starting_Characters
     options["starting_dice"] = Starting_Dice
     options["goal_requirement"] = Goal_Requirement
-    # options["local_fill"] = LocalFill
+    options["enable_backside_rider"] = EnableBacksideRider
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

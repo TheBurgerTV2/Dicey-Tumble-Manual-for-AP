@@ -65,6 +65,9 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
 
     {"Dice Fragment": {ItemClassification.progression_deprioritized: 75}}
     {"Extra Dice Fragment for fun": {ItemClassification.progression_deprioritized: 25}}
+        
+    if not world.options.enable_backside_rider.value:
+        item_config["The Backside Rider"] = 0
 
     return item_config
 
